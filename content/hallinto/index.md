@@ -4,7 +4,6 @@ slug: "/hallinto/"
 
 discussionId: "/hallinto/"
 date: 2022-01-01
-math: true
 toc: true
 ---
 

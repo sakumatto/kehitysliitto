@@ -38,7 +38,7 @@
 
 [[main]]
   name = "Jäseneksi liittymislomake"
-  url = "#"
+  url = "/jasenelle#liittymislomake"
   parent = "tietoa"
   weight = 10
 
