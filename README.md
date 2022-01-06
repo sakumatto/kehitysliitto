@@ -1,1 +1,1 @@
-# Example blog
+# Valo ry site for 2022
