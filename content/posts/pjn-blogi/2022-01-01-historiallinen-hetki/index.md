@@ -1,0 +1,58 @@
+---
+title: "Historiallinen hetki"
+date: 2022-01-01
+categories: ["Puheenjohtajan blogi"]
+tags:
+- Ammattiliitto VALO
+- Työväenliike 2000-luvulla
+- Oikeustieteellinen apu
+description: "Puheenjohtajan blogi nro 1, jossa Aki Nummelin kertoo taustoja mihin tilanteeseen ja miksi uusi ammattiliitto syntyi. Uutta liittoa perustavat ihmiset olivat vihaisia, hämmentyneitä ja hädissään. Miten ihmeessä oli päädytty tähän tilanteeseen? Ja miten ihmeessä tilanteeseen oli päädytty siten, että ammattiliitot eivät olleet tehneet elettäkään jäseniään puolustaakseen?"
+thumbnail: "/posts/pjn-blogi/historiallinen-hetki/pjn-blogi.png"
+slug: "/posts/pjn-blogi/historiallinen-hetki/"
+discussionId: "/posts/pjn-blogi/historiallinen-hetki/"
+math: true
+toc: true
+draft: false
+author: valoliitto.fi
+---
+
+Joulun alla elettiin historiallisia hetkiä, kun runsas tusina aktiivista ammattiliittoihmistä kokoontui Tampereelle perustamaan uutta ammattiliittoa.
+
+Taustalla oli, että hallitus – pääministeri Marin demareista ja hänellä apuna myös perinteinen työväenpuolue Vasemmistoliitto Li Andersson etunenässä – oli valmistelemassa kovalla vauhdilla lakia, joka pakottaisi sosiaali- ja terveysalan henkilöstön ottamaan koronarokotukset. Ja tämä siitä huolimatta, että kyseessä oli kokeellinen rokote, josta oli tehty tuhansia haittailmoituksia lääkevalvontavirasto Fimealle.
+
+Todella omituinen tilanne, kun työväenpuolueiden hallitsema hallitus esitti pakkotoimia, jotka kohdistuivat työntekijöihin – ja työnantajille olisi annettu merkittävästi lisää valtaa määritellä, millaiset ihmiset saisivat olla töissä… ja ketkä joutuisivat paarialuokkaan etsimään korvaavaa työtä satunnaisista työmahdollisuuksista.
+
+Jo tätä ennen oli ollut erittäin lukuisia tilanteita työpaikoilla, kun työntekijät pakotettiin käyttämään maskeja – vaikka maassa ei ole minkäänlaista maskien käyttöön pakottavaa lakia. Tosiasiallisesti työturvallisuuslain 10 pykälän mukaan työnantajien pitäisi laatia jokaiselle vähänkään isommalle työpaikalle työterveysuhkien riskikartoitus, missä terveydenhuoltoalan ammattihenkilön toimesta määriteltäisiin työpaikan terveysriskit. Jotta maskit voitaisiin määrätä, pitäisi tuon riskikartoituksen pitää sisällään selvitys siitä, mitä hyötyä ja haittaa maskeista olisi.
+
+Tällaisia riskikartoituksia ei työpaikoilta löydy. Maskipakon asettaminen työpaikoille on perustunut kuvitelmaan siitä, että niistä olisi hyötyä. Mitään todisteita hyödyistä ei ole, eikä haitoista ole tehty tutkimuksia. Silti työntekijät pakotetaan niitä käyttämään.
+
+***
+
+Uutta liittoa perustavat ihmiset olivat vihaisia, hämmentyneitä ja hädissään. Miten ihmeessä oli päädytty tähän tilanteeseen? Ja miten ihmeessä tilanteeseen oli päädytty siten, että ammattiliitot eivät olleet tehneet elettäkään jäseniään puolustaakseen?
+
+Yhteiskunnassa on luotu voimakasta hysteriaa pakkorokottamisen ja pakkomaskittamisen puolesta. Tiedotusvälineet ovat yksituumaisesti vaatineet rokotteita ja maskeja – niihin kriittisesti tai kielteisesti suhtautuneet on kuvattu salaliittoteoreetikoiksi. Minkäänlaista tilaa toisenlaisille näkemyksille ei ole annettu.
+
+Tämä on omituinen tilanne maassa, missä on totuttu siihen, että asioista on voitu keskustella.
+
+Ei siis ihme, että Tampereelle kokoontuneet uudet liittoihmiset kaipasivat vaihtoehtoa. He halusivat saada oman äänensä kuuluviin.
+
+Ja tätä tarkoitusta varten uusi liitto nimenomaan on luotu. Jotta ihmiset, joilta on otettu heidän oma äänensä pois, saisivat kertoa, mitä mieltä he ovat ja mitä he haluavat yhteiskunnalta, johon myös he kuuluvat.
+
+***
+
+Uuden liiton keskeinen tehtävä on antaa oikeudellista neuvontaa ja tukea kaikille jäsenille, jotka kokevat, ettei heitä kuunnella, eikä kukaan valvo heidän etujaan.
+
+Laki on yksiselitteisesti näiden ihmisten takana. Potilaslaki, perustuslain 7. pykälä ja niin kutsuttu Oviedon sopimus sanovat yksiselitteisesti, ettei ketään saa pakottaa lääketieteelliseen toimenpiteeseen – ei myöskään rokotteen ottamiseen. Valtiovalta toimii, kuin näitä lakeja ei olisi olemassa. Ja tämä se vasta omituista onkin, sillä valtiovaltaa on näistä laeista muistutettu useasti.
+
+***
+
+Toisaalta – ei ammattiliittojen toimimattomuus ole ollut mikään uutinen enää useaan vuoteen. Vaikka jäsenet ovat maksaneet jäsenmaksuja, ei liitoista ole tahtonut saada juuri minkäänlaista apua edes irtisanomisten yhteydessä.
+
+Jos ammattiliiton jäsen on halunnut saada liitosta pikaista oikeudellista apua, on hänet laitettu odottamaan mahdollista tietoa niin kauan, kunnes tiedosta ei ole ollut enää hyötyä.
+
+Vaikka 1980-luvulla suomalaiset työntekijät olivat järjestäytyneet laajasti – järjestäytymisaste läheni 90 prosenttia – on suomalaisista duunareista järjestäytynyt nykyään enää puolet. Sen sijaan, että ammattiliittojen toimijat yrittäisivät selvittää syitä tähän (jos selvittäisivät, huomaisivat, että duunarit ovat tyytymättömiä liittojen toimimattomuuteen), he keskittyvät vain haukkumaan työntekijöitä, jotka ”eivät ymmärrä järjestäytyä”.
+
+Uusi liitto ei hylkää ensimmäistäkään jäsentään. Kaikkia autetaan.
+
+Aki Nummelin
+Vapaa ammattiliitto – VALO ry:n puheenjohtaja
