@@ -3,16 +3,16 @@ title: "Tiedote #1: Suomeen perustettu uusi ammattiliitto"
 date: 2021-12-29
 categories: ["Tiedotteet"]
 tags:
-- Tiedote nro 1
+- Tiedote
 - Ammattiliitto VALO
-thumbnail: "/posts/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/rip-sote.jpg"
+thumbnail: "/tiedotteet/rip-sote.jpg"
 
 description: "Suomeen on perustettu uusi ammattiliitto, jonka nimi on Vapaa ammattiliitto - VALO ry, 
 ruotsiksi Fria fackförbundet - VALO rf. Ammattiliitto on tarkoitettu kaikille palkansaajille, 
 mikroyrittäjille sekä eri alojen opiskelijoille. Lisäksi liittoon voi liittyä kannattajajäseneksi. "
 
-slug: "/posts/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
-discussionId: "/posts/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
+slug: "/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
+discussionId: "/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
 math: true
 featured: true
 toc: true

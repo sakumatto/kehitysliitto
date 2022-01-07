@@ -1,8 +1,8 @@
 ---
 title: "Tietosuoja"
-slug: "/lakiasiat/tietosuoja/"
-thumbnail: "/lakiasiat/tietosuoja/saatytalo-tuppence.jpg"
-discussionId: "/lakiasiat/tietosuoja/"
+slug: "/tietosuoja/"
+thumbnail: "/tietosuoja/saatytalo-tuppence.jpg"
+discussionId: "/tietosuoja/"
 date: 2022-01-02
 toc: true
 
@@ -15,7 +15,7 @@ description: "VALO-liitto kerää toimintansa toteuttamisen kannalta tarpeellisi
 
 ## Johdanto
 
-VALO-liitto on rekisteröity yhdistys, käsittelyssä PRH:ssa, jonka toiminnassa on toiminnassaan sovellettava yhdistyslakia ([yhdistyslaki 1989/503](https://www.finlex.fi/fi/laki/ajantasa/1989/19890503)). Yhdistyslain §11 mukaan yhdistyksen hallituksen on  pidettävä luetteloa jäsenistöstä. Luetteloon on merkittävä kunkin jäsenen täydellinen nimi ja kotipaikka. Liiton sääntöjen mukaan VALO-liiton hallitus vastaa liiton monista tehtävistä ja pitää siksi mm luetteloa liiton ja ammattiosaston jäsenistä. Edellä mainittujen tietojen lisäksi VALO-liitto kerää toimintansa toteuttamisen kannalta tarpeellisia tietoja rekisteriin. VALO-liitto käsittelee henkilötietoja huolellisesti ja noudattaa niiden käsittelyssä tietosuojalainsäädäntöä ja tietosuoja-asetuksessa määriteltyjä perusperiaatteita sekä hyvää tiedonhallinta- ja käsittelytapaa. 
+VALO-liitto on rekisteröity yhdistys, käsittelyssä PRH:ssa, jonka on toiminnassaan sovellettava yhdistyslakia ([yhdistyslaki 1989/503](https://www.finlex.fi/fi/laki/ajantasa/1989/19890503)). Yhdistyslain §11 mukaan yhdistyksen hallituksen on  pidettävä luetteloa jäsenistöstä. Luetteloon on merkittävä kunkin jäsenen täydellinen nimi ja kotipaikka. Liiton sääntöjen mukaan VALO-liiton hallitus vastaa liiton monista tehtävistä ja pitää siksi mm luetteloa liiton ja ammattiosaston jäsenistä. Edellä mainittujen tietojen lisäksi VALO-liitto kerää toimintansa toteuttamisen kannalta tarpeellisia tietoja rekisteriin. VALO-liitto käsittelee henkilötietoja huolellisesti ja noudattaa niiden käsittelyssä tietosuojalainsäädäntöä ja tietosuoja-asetuksessa määriteltyjä perusperiaatteita sekä hyvää tiedonhallinta- ja käsittelytapaa. 
 
 
 Tietosuojaseloste perustuu EU:n tietosuoja-asetuksen (2016/679, General Data Protection Regulation, ”GDPR”) rekisteröityjen informointivelvoitteeseen (GDPR:n artiklat 12-14), GDPR:n artiklan 30 mukaiseen rekisterinpitäjän velvoitteeseen ylläpitää selostetta vastuullaan olevista käsittelytoimista sekä GDPR:ää täydentävän kansallisen tietosuojalain (1050/2018) velvoitteisiin.
@@ -43,11 +43,11 @@ Tehtävä
 Osoite
 Sähköposti 
 Yhteystiedot rekisterin käyttötarkoitusta koskevissa kysymyksissä
-rekisteri@valoliitto.fi
+rekisteri(ät-merkki)valoliitto.fi
 
 ## 3 Tietosuojavastaava
 Vapaa ammattiliitto - VALO ry, Saku Mättö
-Sähköposti tietosuojavastaava@valoliitto.fi
+Sähköposti tietosuojavastaava(ät-merkki)valoliitto.fi
 
 ## 4 Henkilötietojen käsittelyn tarkoitukset sekä käsittelyn oikeusperuste
 Henkilötietojen käsittelyn tarkoitus:
@@ -138,7 +138,7 @@ Käyntiosoite: Lintulahdenkuja 4, 00530 Helsinki
 Postiosoite: PL 800, 00531 Helsinki
 Puhelin (vaihde): + 358 29 56 66700
 Faksi: + 358 9 56 66735
-Sähköposti: tietosuoja@om.fi
+Sähköposti: tietosuoja(ät-merkki)om.fi
 
 ## 16 Rekisterin suojauksen periaatteet
 Yleinen kuvaus teknisistä ja organisatorisista turvatoimista, joilla rekisteröityjen henkilötietoja ja rekistereitä VALO ry:n toimesta pyritään suojaamaan:

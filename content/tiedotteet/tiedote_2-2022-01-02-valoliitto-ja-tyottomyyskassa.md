@@ -3,15 +3,15 @@ title: "Tiedote #2: Vapaa ammattiliitto - VALO ry ja sen työttömyyskassa"
 date: 2022-01-02
 categories: ["Tiedotteet"]
 tags:
-- Tiedote nro 2
+- Tiedote
 - Ammattiliitto VALO
 - Työttömyyskassa
-thumbnail: "/posts/tiedotteet/tiedote-2022-01-02-valoliitto-ja-tyottomyyskassa/setelitukko.jpg"
+thumbnail: "/tiedotteet/setelitukko.jpg"
 
 description: "Vapaa ammattiliitto - VALO ry haluaa muistuttaa jäsenistöään toistaiseksi pysymään aiemmassa työttömyyskassassaan. Jos siis eroat vanhasta liitostasi liittyäksesi Valoliittoon, muista varmistaa, että silti pysyt kassan jäsenenä. Kassan jäsenyys ei ole sidottu liiton jäsenyyteen."
 
-slug: "/posts/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
-discussionId: "/posts/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
+slug: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
+discussionId: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
 math: true
 featured: true
 toc: true

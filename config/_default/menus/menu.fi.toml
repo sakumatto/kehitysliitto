@@ -1,8 +1,21 @@
 [[main]]
   name = "Blogi & tiedotteet"
   url = ""
+  identifier = "blogi-pjn"  
   weight = 10
 
+[[main]]
+  name = "Puheenjohtajan blogi"
+  url = "/categories/puheenjohtajan-blogi/"
+  parent = "blogi-pjn"
+  weight = 20
+
+[[main]]
+  name = "Tiedotteet"
+  url = "/categories/tiedotteet/"
+  parent = "blogi-pjn"
+  weight = 30
+  
 [[main]]
   name = "Lakiasiat"
   url = "/lakiasiat/"
@@ -10,13 +23,13 @@
 
 [[main]]
   name = "Liiton säännöt"
-  url = "/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/"
+  url = "/saannot/"
   parent = "Lakiasiat"
   weight = 10
 
 [[main]]
   name = "Tietosuoja"
-  url = "/lakiasiat/tietosuoja/"
+  url = "/tietosuoja/"
   parent = "Lakiasiat"
   weight = 20
 
@@ -37,16 +50,22 @@
   weight = 45
 
 [[main]]
-  name = "Jäseneksi liittymislomake"
-  url = "/jasenelle#liittymislomake"
+  name = "Jäseneksi liittyminen"
+  url = "/jasenelle/"
   parent = "tietoa"
   weight = 10
 
 [[main]]
   name = "Liiton tilitiedot"
-  url = "http://localhost:1313/meista/#tilitiedot"
+  url = "/meista/#tilitiedot"
   parent = "tietoa"
   weight = 20
+
+[[main]]
+  name = "Yhteydenotto"
+  url = "/yhteydenotto/"
+  parent = "tietoa"
+  weight = 30
 
 [[main]]
   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
@@ -63,8 +82,4 @@
   url = "https://www.facebook.com/Vapaa-ammattiliitto-VALO-ry-109809381573128/"
   weight = 70
   
-[[main]]
-  name = "<img src=\"/icons/twitter.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
-  url = "https://twitter.com/valoliitto?t=ugu4xXT_tmUaKIc7elp2dA&s=09"
-  weight = 80
   

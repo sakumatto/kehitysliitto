@@ -8,7 +8,7 @@ discussionId: "/meista/"
 date: 2022-01-01
 ---
 
-<img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/pilli.png">
+<img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/meista/liitto.jpg">
 <style>
 #my-photo {
     width: 16rem;
@@ -25,13 +25,16 @@ date: 2022-01-01
 }
 </style>
 
+
 Vapaa ammattiliitto – VALO ry on ammattiliitto, joka on avoin kaikilta ammattialoilta tuleville jäsenille.
 
 Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi.
+
 #### Miten jäseneksi?
 Liiton jäseneksi voidaan hyväksyä henkilöt, jotka hyväksyvät liiton tarkoituksen. Liiton kannatusjäseneksi voidaan hyväksyä henkilöt ja oikeushenkilöt, jotka haluavat tukea liittoa ja sen tarkoitusta.
 
 Liiton jäsenyyttä ja kannatusjäsenyyttä haetaan kirjallisesti. Jäseneksi ja kannatusjäseneksi hyväksymisestä päättää liiton hallitus.
+- [Liity jäseneksi klikkaamalla](/jasenelle/).
 
 #### Jäsenen oikeuksia
 Jäsen voi saada liitolta avustusta ja tukea sellaisten oikeudellisten asioiden hoitamiseen, jotka ovat aiheutuneet työsuhdeasioissa tai hänen toiminnastaan liitossa. Hallitus päättää oikeusavun myöntämisen perusteista ja liiton myöntämistä avustuksista.  Jos jäsenelle on myönnetty oikeusapu ja tuomioistuin velvoittaa vastapuolen korvaamaan hänelle oikeudenkäyntikulut, ne tulevat liitolle korvaukseksi annetusta avusta.

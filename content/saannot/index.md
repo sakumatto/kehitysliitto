@@ -1,18 +1,33 @@
 ---
 title: "Ammattiliiton säännöt 28.12.2021"
-slug: "/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/"
 
 date: 2021-12-28
 categories: ["Säännöt"]
 tags:
 - Ammattiliitto VALO säännöt
-description: "Tältä sivulta voit lukea liiton alkuperäiset säännöt."
-thumbnail: "/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/pilli.png"
-slug: "/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/"
-discussionId: "/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/"
+description: "Tältä sivulta voit lukea liiton säännöt."
+thumbnail: "/saannot/pilli.png"
+slug: "/saannot/"
+discussionId: "/saannot/"
 toc: true
 author: valoliitto.fi
 ---
+<img id="my-photo" alt=" Yhteydenotto - Vapaa ammattiliitto - VALO ry" src="/saannot/pilli.png">
+<style>
+#my-photo {
+    width: 16rem;
+    margin:0;
+    padding: 0;
+    margin: 1rem 1rem 0.5rem 0;
+    border-radius: 50%;
+    clear: both;
+}
+@media screen and (min-width: 400px) {
+    #my-photo {
+        float: right;
+    }
+}
+</style>
 
 ### 1 § Nimi, kotipaikka ja kieli
 Liiton nimi on Vapaa ammattiliitto - VALO ry, ruotsiksi Fria fackförbundet – VALO rf.

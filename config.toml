@@ -1,6 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "http://81.19.123.73/"  # Include trailing slash
+# baseurl = "http://81.19.123.73/"  # Include trailing slash
+baseurl = "http://aqvitae.com/"  # Include trailing slash
 title = "valoliitto.fi"
 author = "valoliitto.fi"
 
@@ -8,7 +9,7 @@ author = "valoliitto.fi"
 
 #canonifyurls = true
 paginate = 8
-PaginatePath = "/posts/"
+PaginatePath = "/tiedotteet/" # oli posts
 theme = "hugo-curious"
 
 DefaultContentLanguage = "fi"
@@ -43,9 +44,11 @@ series = "series"
     tabWidth = 2
 
 [permalinks]
-  page = "/:slug/"
-  posts = "/:slug/"
-  legal = "/:slug/"
+	page = "/:slug/"
+	posts = "/:slug/"
+	tiedotteet = "/:slug/"
+	pjn-blogi = "/:slug/"
+#  saannot = "/:06/:1/:2/:title/"
 
 [params]
 author = "valoliitto.fi"
@@ -106,7 +109,8 @@ numberOfFeaturedPosts = 8
 #talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
 # Contact form
-contactFormSubmitUrl = "https://formspree.io/xaypalea"
+contactFormSubmitUrl = "https://formspree.io/f/xbjwlwrr"
+jaseneksiFormSubmitUrl = "https://formspree.io/f/xbjwlwrr"
 
 # Buy me a coffee
 # Comment below line to disable
@@ -121,7 +125,7 @@ contactFormSubmitUrl = "https://formspree.io/xaypalea"
 
 # Cookie Consent
 showCookieConsent = true
-privacyPolicyPage = "/lakiasiat/tietosuoja/"
+privacyPolicyPage = "/tietosuoja/"
 
 [related]
   includeNewer = true

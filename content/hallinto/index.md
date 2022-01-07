@@ -7,7 +7,7 @@ date: 2022-01-01
 toc: true
 ---
 
-<img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/lakiasiat/saannot/liiton-saannot-2021-12-28-versio/pilli.png">
+<img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/hallinto/pilli.png">
 <style>
 #my-photo {
     width: 16rem;
@@ -62,15 +62,15 @@ Hallituksen tehtävänä on muun muassa:
 | Saku Mättö, 1. varapuheenjohtaja      | KUVAUS| saku(piste)matto(ät-merkki)valoliitto.fi | 
 | Senni Nieminen, 2. varapuheenjohtaja      | Olen ammatiltani lähi- ja sairaanhoitaja. Aloitin 16-vuotiaana opiskelun ja työuran sotealalla. Olen työskennellyt mm. teho-osastolla, kirurgian vuodeosastolla, hoivakodissa ja viimeisimpänä leikkausosastolla anestesiahoitajana. Minulla on 22 vuoden kokemus ja näkemys alalta.| senni(piste)nieminen(ät-merkki)valoliitto.fi |
 | Kaisa Nousiainen, sihteeri      | Kieliopin kiemuroista nauttiva pitkän linjan hoitoalan ammattilainen, jolla on myöhempien eläin- ja hyvinvointialan koulutusten myötä syntynyt holistinen näkökulma ihmisten terveyden ja hyvinvoinnin tukemiseen. Aina valmis oppimaan uutta ja tukemaan toisia omilla elämänpoluillaan.| kaisa(piste)nousiainen(ät-merkki)valoliitto.fi |
-| Kirsi Manneh                  | Kuvaus | Yhteydenotto   |
+| Kirsi Dahlberg                  | Kuvaus | kirsi(piste)dahlberg(ät-merkki)valoliitto.fi   |
 | Petri Hänninen                  | Olen pienyrittäjä Lappeenrannasta. Yritystoiminta alkoi 2 vuotta sitten pitkän tauon jälkeen. Olen ollut yrittäjänä jo 90-luvun alkupuolelta  ja myyjänä viime vuodet ennen yritystoiminnan jatkamisesta kaksi vuotta sitten. Tuotteet olleet pääasiassa elintarvikkeiden myyntiä. Tärkein asia 4 lapsen isänä oleminen. Kuntoilua on useasti viikon aikana. Tärkeimpiä asioita perheen lisäksi  lapsiperheiden aseman parantaminen ja suomen kansalaisten vapauden ja itsemäärämisen vahvistaminen. Motto: Aina aikaa kahvinjuontiin :-) | petri(piste)hanninen(ät-merkki)valoliitto.fi   |
 | Elisa Aattela, rahastonhoitaja 3.1.22 asti) | Olen valmistunut terveysteknikoksi Mikkelin tekusta 1983. Olen ollut työsuojelutarkastajana sekä terveystarkastajana Helsingissä, Riihimäellä ja Hyvinkäällä. Olen toiminut yrittäjänä 2001-2008 Lasiainen Elisa Aattela tehden lasitöitä päätyökseni. Sisäilma-asiantuntijana olen toiminut vuodesta 2007. Sisäilmatutkimuspalvelut Elisa Aattela Oy:n puitteissa teen sisäilmatutkimuksia uudella kehittämälläni ja maailmanlaajuisesti patentoidulla menetelmälläni. Olen toiminut  yhdistyksissä hallituksessa ja rahastonhoitajana. | elisa(piste)aattela(ät-merkki)valoliitto.fi   |
 | Pasi Isomäki                  | Toimenkuva: koordinaattori. Olen ammatiltani tietoliikennetekniikan t&k -insinööri. Sähköalan työkokemusta eri teknologia-alan teollisuudesta ja sähköalan opettajan työstä on kertynyt yhteensä n. 33 vuotta. | pasi(piste)isomaki(ät-merkki)valoliitto.fi   |
 | Jarkko Ylimäki                  | Kuvaus | jarkko(piste)ylimaki(ät-merkki)valoliitto.fi   |
 | Johanna Ruusunen                  | Olen valmistunut 2017 lähihoitajaksi ja työskentelen lastensuojelussa ohjaajana. Aiemmin olen työskennellyt kaupan alalla, pankissa ja varhaiskasvatuksessa. | johanna(piste)ruusunen(ät-merkki)valoliitto.fi   |
-| Merja Lindström                  | Kuvaus | merja(piste)lindstrom(ät-merkki)valoliitto.fi   |
+| Merja Lindström                  | Olen toiminut terveysalan mikroyrittäjänä 35 vuotta. Useita alaan liittyviä koulutuksia mm. terveystuotteista, yrtti- ja kasvilääkinnästä. Olen suorittanut myös peruslääketieteen opinnot. Tietokirjailijana olen kirjoittanut alaan liittyviä kirjoja.  Toimin alan kouluttajana ja luennoitsijana sekä geenitestien tulkitsijana. Ollut Suomen Terveysjärjestön STJ ry puheenjohtajana 2004 alkaen. | merja(piste)lindstrom(ät-merkki)valoliitto.fi   |
 | Anu Tolppi                  | Kuvaus | anu(piste)tolppi(ät-merkki)valoliitto.fi   |
-| Johanna Yli-Kaatiala (varajäsen 3.1.22 asti)                  | Kuvaus | johanna(piste)yli-kaatiala(ät-merkki)valoliitto.fi   |
+| Johanna Yli-Kaatiala (4.1.2022 alkaen, varajäsen 3.1.22 asti)                  | Kuvaus | johanna(piste)yli-kaatiala(ät-merkki)valoliitto.fi   |
 | Niina Kopola (vara)                  | Kuvaus | niina(piste)kopola(ät-merkki)valoliitto.fi   |
 | Hannele Säteentie (vara)                  | Kuvaus | hannele(piste)sateentie(ät-merkki)valoliitto.fi   |
 
