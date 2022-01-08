@@ -23,7 +23,8 @@ if ($('#jaseneksi option:selected').length == 0) { alert('Ammattia ei valittu');
             <input name="pnumero" id="pnumero" type="text" tabindex="4" required></p>
         <p><label for="ptoimipaikka"><b>Postitoimipaikkasi *</b></label>
             <input name="ptoimipaikka" id="ptoimipaikka" type="text" tabindex="5" required></p>
-
+        <p><label for="kkunta"><b>Kotikuntasi *</b></label>
+            <input name="kkunta" id="kkunta" placeholder="Kirjaa kotikuntasi vaikka olisii sama kuin postitoimipaikka" type="text" tabindex="6" required></p>
         <p><label for="ammatti"><b>Ammattisi *</b></label>
        			{{ partial "ammatit-dropdown.html" . }}
 
