@@ -1,4 +1,5 @@
 <footer class="footer">
+
   <div class="footer_inner wrap pale">
     <img alt="{{ .Site.Title | upper }}" src='{{ absURL "icons/apple-touch-icon.png" }}' class="icon icon_2 transparent">
     <p>{{ i18n "copyright" }} &copy;&nbsp;<span class="year">{{ now.Format "2006"}}</span>&nbsp;{{ .Site.Title }}. {{ i18n "all_rights"}}
@@ -6,8 +7,11 @@
       {{ .Site.Params.copyRightExtended | markdownify }}
     {{- end }}
     </p>
+    
     {{- partial "top" .}}
   </div>
+        <a href='/jaseneksi-lomake/' class="button mt-1" role="button">Liity jäseneksi</a>
+
 </footer>
 
 {{- partial "math" .}}

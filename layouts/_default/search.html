@@ -5,18 +5,18 @@
         <section id="search-form-wrapper" class="p-3 p-lg-5 d-flex flex-column">
             <div class="my-auto">
                 <!-- <h1>{{ .Title }}</h1> -->
-                <a href="/search/"><img src="/images/aicurious_search.png" style="width: 20rem"></a>
-                <p style="text-align: center;">Search for posts and notes<br>
-                    <a href="/categories/">&gt; Browse by Categories.</a><br>
-                    <a href="/tags/">&gt; Browse by Tags.</a></p>
+                <a href="/search/"><img src="/images/valohaku.png" style="width: 20rem"></a>
+                <p style="text-align: center;">Etsi materiaaleistamme<br>
+                    <a href="/categories/">&gt; Etsi kirjastostamme.</a><br>
+                    <a href="/tags/">&gt; Etsi aiheistamme.</a></p>
                 <form id="search-form" action="{{ "search" | absURL }}">
-                    <input id="search-query" placeholder="Type here to search" name="s" />
-                    <button id="search-btn" type="submit">Search</button>
+                    <input id="search-query" placeholder="Kirjoita hakusi tähän" name="s" />
+                    <button id="search-btn" type="submit">Etsi</button>
                 </form>
                 <img id="loading-icon" src="/images/loading.svg" alt="loading" style="width: 4rem; height: 4rem;float: left; display: none;">
                 <div id="search-results">
                 </div>
-                <div style="display: none;">Search database version: <span id="search-db-version">{{ now.Unix }}</span></div>
+                <div style="display: none;">Hakukannan versio: <span id="search-db-version">{{ now.Unix }}</span></div>
             </div>
         </section>
         <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
@@ -26,8 +26,8 @@
               <p>${snippet}</p>
               <!-- <p>${score}</p> -->
               <p>
-                ${ isset tags }<b>Tags:</b> ${tags}, ${ end }
-                ${ isset categories }<b>Categories:</b> ${categories}${ end }
+                ${ isset tags }<b>Aihe:</b> ${tags}, ${ end }
+                ${ isset categories }<b>Kirjasto:</b> ${categories}${ end }
               </p>
             </div>
         </script>

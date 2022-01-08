@@ -7,9 +7,9 @@ tags:
 - Työväenliike 2000-luvulla
 - Oikeustieteellinen apu
 description: "Puheenjohtajan blogi nro 1, jossa Aki Nummelin kertoo taustoja mihin tilanteeseen ja miksi uusi ammattiliitto syntyi. Uutta liittoa perustavat ihmiset olivat vihaisia, hämmentyneitä ja hädissään. Miten ihmeessä oli päädytty tähän tilanteeseen? Ja miten ihmeessä tilanteeseen oli päädytty siten, että ammattiliitot eivät olleet tehneet elettäkään jäseniään puolustaakseen?"
-thumbnail: "/pjn-blogi/historiallinen-hetki/pjn-blogi.png"
-slug: "/pjn-blogi/historiallinen-hetki/"
-discussionId: "/pjn-blogi/historiallinen-hetki/"
+thumbnail: "/blogi/historiallinen-hetki/pjn-blogi.png"
+slug: "/blogi/historiallinen-hetki/"
+discussionId: "/blogi/historiallinen-hetki/"
 math: true
 toc: false
 draft: false
