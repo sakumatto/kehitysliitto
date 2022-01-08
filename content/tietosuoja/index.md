@@ -49,7 +49,7 @@ Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin tietojen käsittely
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin rekisteröityjä ovat ammattiliiton jäsenet.
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisteriin tallennetaan seuraavia henkilötietoja:
 PERUS- JA YHTEYSTIEDOT
-    etunimi(t), sukunimi
+    etunimet, sukunimi, osoite, kotikunta,
     ammatti
     aiemmin hankittu osaaminen (tutkinnot, muu osaaminen/työkokemus)
 ## 7 Henkilötietojen säännönmukaiset tietolähteet

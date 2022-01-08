@@ -41,18 +41,20 @@ Hallituksen alaiseen johtoryhmään kuuluvat liiton puheenjohtaja, molemmat vara
 Liiton asioita hoitaa ja sitä edustaa hallitus, joka johtaa liiton toimintaa näiden sääntöjen sekä liittokokouksen päätösten mukaisesti. Hallitukseen kuuluvat puheenjohtaja, jota kutsutaan myös liiton puheenjohtajaksi, ensimmäinen ja toinen varapuheenjohtaja sekä 8—27 muuta varsinaista jäsentä. Hallitukselle valitaan 1–27 varajäsentä, jotka astuvat kokouksesta poissa olevan hallituksen varsinaisen jäsenen sijaan siinä järjestyksessä, kuin heidät on merkitty valinnan tehneen liittokokouksen pöytäkirjaan.
 Hallituksen valinnassa on otettava huomioon eri ammattialojen edustavuus.
 Hallituksen jäsenten on oltava liiton jäseniä. Jos hallituksen jäsen siirtyy pysyvästi eläkkeelle, hänen jäsenyytensä hallituksessa lakkaa heti ja varajäsen kutsutaan hänen tilalleen.
+
 Hallituksen jäsenet valitaan varsinaisessa liittokokouksessa ja heidän toimikautensa on varsinaisten liittokokousten välinen aika, jollei näissä säännöissä toisin määrätä.
 Hallitus kokoontuu puheenjohtajan tai hänen estyneenä tai esteellisenä ollessaan varapuheenjohtajan kutsusta niin usein, kuin asiat sitä vaativat. Hallituksen kokous on päätösvaltainen, kun puheenjohtaja tai varapuheenjohtaja ja vähintään puolet sen jäsenistä on läsnä.
+
 Hallituksen tehtävänä on muun muassa:
-• seurata, että liiton toimintaa johdetaan näiden sääntöjen ja liittokokouksen sekä hallituksen päätösten mukaisesti
+- seurata, että liiton toimintaa johdetaan näiden sääntöjen ja liittokokouksen sekä hallituksen päätösten mukaisesti
 • valvoa sääntöjen mukaisten avustusten suorittamista ja ratkaista niistä aiheutuvat erimielisyydet
-• käsitellä hallituksen jäsenten esittämät tai muulla tavoin esille tulevat asiat
-• valvoa, että liiton rahavaroja säilytetään luotettavalla ja liitolle edullisella tavalla, että liiton muu omaisuus tulee hyvin hoidetuksi ja että välitilinpäätös laaditaan puolivuosittain
-• esittää liittokokoukselle kertomus liiton toiminnasta ja taloudesta kuluneen vuoden ajalta
-• ottaa ja erottaa liiton työntekijät sekä sopia näiden työsuhteiden ehdoista ja työtehtävistä
-• päättää liiton irtaimen ja kiinteän omaisuuden ostamisesta, myymisestä, vaihtamisesta tai kiinnittämisestä
-• nimittää johtoryhmän jäsenet, tarvittavat apuelimet ja työryhmät sekä päättää niiden tehtävistä
-• päättää työehtoneuvottelukuntien ja -jaostojen tehtävistä ja kokoonpanosta.
+- käsitellä hallituksen jäsenten esittämät tai muulla tavoin esille tulevat asiat
+- valvoa, että liiton rahavaroja säilytetään luotettavalla ja liitolle edullisella tavalla, että liiton muu omaisuus tulee hyvin hoidetuksi ja että välitilinpäätös laaditaan puolivuosittain
+- esittää liittokokoukselle kertomus liiton toiminnasta ja taloudesta kuluneen vuoden ajalta
+- ottaa ja erottaa liiton työntekijät sekä sopia näiden työsuhteiden ehdoista ja työtehtävistä
+- päättää liiton irtaimen ja kiinteän omaisuuden ostamisesta, myymisestä, vaihtamisesta tai kiinnittämisestä
+- nimittää johtoryhmän jäsenet, tarvittavat apuelimet ja työryhmät sekä päättää niiden tehtävistä
+- päättää työehtoneuvottelukuntien ja -jaostojen tehtävistä ja kokoonpanosta.
 
 #### Liiton hallituksen 2022 muodostavat seuraavat henkilöt
 

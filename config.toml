@@ -71,7 +71,7 @@ numberOfTagsShown = 8 # Applies for all other default & custom taxonomies. e.g c
 fallBackOgImage = "images/thumbnail.jpg" 
 
 # directory(s) where your articles are located
-mainSections = ["posts"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["posts", "tiedotteet", "pjn-blogi"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
