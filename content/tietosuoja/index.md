@@ -25,23 +25,10 @@ Tämä tietosuojaseloste on lisäksi pyritty laatimaan saavutettavaksi EU:n ns. 
 Vapaa ammattiliitto - VALO ry:n jäsenrekisteri
 
 ## 2 Rekisterinpitäjä
-Nimi 
-Yhteystiedot
-Vierailuosoite
-Puhelin 
-Rekisterinpitäjän vastuuhenkilö
-Nimi
-Tehtävä
-Rekisterin sisällöstä vastaava henkilö
-Nimi
-Tehtävä
-Osoite
-Sähköposti 
-Rekisterin yhteyshenkilön yhteystiedot
-Nimi
-Tehtävä
-Osoite
-Sähköposti 
+Nimi - Vapaa ammattiliitto - VALO ry, Viimatie 14, 28190 PORI
+
+Rekisterinpitäjän vastuuhenkilö, Saku Mättö, hallituksen jäsen
+Rekisterin sisällöstä vastaava henkilö, Johanna Yli-Kaatiala, hallituksen jäsen
 Yhteystiedot rekisterin käyttötarkoitusta koskevissa kysymyksissä
 rekisteri(ät-merkki)valoliitto.fi
 

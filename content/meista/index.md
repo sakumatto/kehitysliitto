@@ -30,42 +30,16 @@ Vapaa ammattiliitto – VALO ry on ammattiliitto, joka on avoin kaikilta ammatti
 
 Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi.
 
+Vapaa ammattiliitto – VALO ry on nuori liitto, perustettu vuoden 2021 lopulla, vastauksena kentän huutoon siitä, ettei vanhoissa ammattiliitoissa valvota jäsenten etuja muuten kuin juhlapuheissa. Liiton perustajien ja hallituksen jäsenten joukossa on monia, jotka ovat karvaasti saaneet kokea vanhojen liittojen kylmät otteet. Siksi Vapaa ammattiliitto – VALO ry aikoo konkreettisesti antaa apua jäsenistölleen.
+
+Liiton tärkeimpiä päämääriä on nyt kasvattaa jäsenistöään. Hyväksymme kaikkien ammattialojen ihmiset mukaan. Mikroyrittäjät, opiskelijat ja työttömät ovat myös tervetulleita.
+
+[Lue lisää liitosta kohdasta hallinto](/hallinto/)
 #### Miten jäseneksi?
 Liiton jäseneksi voidaan hyväksyä henkilöt, jotka hyväksyvät liiton tarkoituksen. Liiton kannatusjäseneksi voidaan hyväksyä henkilöt ja oikeushenkilöt, jotka haluavat tukea liittoa ja sen tarkoitusta.
 
 Liiton jäsenyyttä ja kannatusjäsenyyttä haetaan kirjallisesti. Jäseneksi ja kannatusjäseneksi hyväksymisestä päättää liiton hallitus.
 - [Liity jäseneksi klikkaamalla](/jasenelle/).
-
-#### Jäsenen oikeuksia
-Jäsen voi saada liitolta avustusta ja tukea sellaisten oikeudellisten asioiden hoitamiseen, jotka ovat aiheutuneet työsuhdeasioissa tai hänen toiminnastaan liitossa. Hallitus päättää oikeusavun myöntämisen perusteista ja liiton myöntämistä avustuksista.  Jos jäsenelle on myönnetty oikeusapu ja tuomioistuin velvoittaa vastapuolen korvaamaan hänelle oikeudenkäyntikulut, ne tulevat liitolle korvaukseksi annetusta avusta.
-Kaikilla liiton jäsenillä on oikeus lainopilliseen neuvontaan työsuhdeasioissa sekä elinkeinotoimintaan liittyvissä sopimus- ja hallinto-oikeudellisissa asioissa.
-
-#### Jäsenen velvollisuuksia
-Jäsenen on noudatettava liiton sääntöjä sekä liittokokouksen ja hallituksen päätöksiä. 
-
-Jäsen voidaan erottaa liitosta hallituksen päätöksellä
-• ellei hän noudata liiton sääntöjä tai niihin perustuvia liittokokouksen tai hallituksen päätöksiä ja ohjeita
-• jos hän toimii liiton tarkoitusta vastaan.
-
-Jäsen ja kannatusjäsen voivat erota liiton jäsenyydestä ilmoittamalla siitä kirjallisesti liiton hallitukselle tai sen puheenjohtajalle. Jäsensuhde päättyy sen kuukauden lopussa, jona eroamisesta on ilmoitettu.
-
-#### Jäsenmaksun suuruus ja maksaminen
-Työssä oleva jäsen maksaa prosentuaalista jäsenmaksua ennakonpidätyksenalaisesta palkkatulosta sekä siihen rinnastettavasta tulosta. Jäsenmaksun suuruus vahvistetaan liittokokouksessa.
-* Vuonna 2022 työssä olevan jäsenmaksu on 1%, enintään 500€ vuodessa
-
-Kannatusjäsenmaksun suuruus vahvistetaan liittokokouksessa.
-
-Opiskelijajäsen on vapautettu jäsenmaksuista opintojen ajan. Ottaessaan vastaan työtä opintojen aikana, jäsenmaksu suoritetaan edellisen kohdan mukaisesti.
-
-Mikroyrittäjät maksavat prosentuaalista jäsenmaksua ennakonpidätyksenalaisista tuloistaan, jotka perustuvat mikroyrittäjän YEL- tai MYEL-järjestelmästä tarkistettavissa oleviin tuloihin. Mikroyrittäjien vuosittaisen jäsenmaksun suuruus vahvistetaan liittokokouksessa.
-* Vuonna 2022 mikroyrittäjän jäsenmaksu on 1% MYEL tai YEL -tulosta, vähintään 80€, enintään 500€ vuodessa
-
-Ilman palkkatuloja, ansioturvaa tai perusturvaa oleva jäsen on vapautettu jäsenmaksusta.
-
-Liiton hallituksella on oikeus tarvittaessa kerätä jäseniltä ylimääräinen jäsenmaksu.
-
-Työnantaja perii jäseneltä jäsenmaksun perintäsopimuksen perusteella palkkakausittain ja tilittää sen liitolle kuukausittain jäsenrekisterin ohjeen mukaan. Jäsen, joka maksaa jäsenmaksun itse, maksaa sen kuukausittain liiton jäsenrekisterin ohjeen mukaan. Jäsen on velvollinen pyydettäessä esittämään palkkatositteet, joista ilmenee jäsenmaksun perusteena oleva palkka. Enintään kuuden kuukauden aikana maksamatta jääneet jäsenmaksut voidaan maksaa takautuvasti.
-Mikroyrittäjät maksavat jäsenmaksun neljännesvuosittain.
 
 -------
  <a name="tilitiedot"></a>

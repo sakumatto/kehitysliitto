@@ -55,9 +55,10 @@ author = "valoliitto.fi"
 twitter = "@valoliitto"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."
-description = "Tehtävämme on perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."
+description = "Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."
 searchTypes = ["posts", "legal"]
 
+liitonYhteystiedot ="Viimatie 14, 28190 PORI, 0400432428"
 codeLineNumbers = true
 
 # Google analytics Id

@@ -51,7 +51,7 @@
 
 [[main]]
   name = "Jäseneksi liittyminen"
-  url = "/jasenelle/"
+  url = "/jaseneksi-lomake/"
   parent = "tietoa"
   weight = 10
 

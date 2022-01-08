@@ -14,6 +14,8 @@ toc: false
 author: valoliitto.fi
 ---
 
+[Tulosta allekirjoitettavaksi alla oleva teksti](vaitiolositoumus-valo-2022-01-08.pdf)
+
 ## Toimitsijan sekä vapaaehtoisen vaitiolovelvollisuus ja salassapitositoumus toimessaan Vapaa ammattiliitto - VALO ry:ssä
 
 Vapaaehtoistoiminta ja liiton toimitsijan työ molemmat perustuvat omiin taitoihin ja persoonallisuuteen ja niiden osalta pyritään löytämään vastaavuus, jolla yksilö kykenee motivoitumaan tehtävässään. Kaikilla on oikeus saada tehtäväänsä ohjausta ja koulutusta.

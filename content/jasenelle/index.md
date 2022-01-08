@@ -38,12 +38,8 @@ Liiton jäsenyyttä ja kannatusjäsenyyttä haetaan kirjallisesti. Jäseneksi ja
 <a name="liittymislomake"></a>
 
 ## Liittymislomake
-Täytä tietosi lomakkeeseen (klikkaa alta). Huomaathan seuraavaa:
-1) Jokainen kohta on pakollinen tieto
-1) Ilmoittautuminen on sitova.
-1) Liittohallitus käsittelee jäsenanomuksen pääsääntöisesti seuraavassa kokouksessaan. Saat lisäksi tiedon hyväksynnästä sähköpostiisi.
-1) Saat "Jäsenyys ennakkomaksu" -laskun kun jäsenanomuksesi on käsitelty. Etumaksun summa 20€ vähennetään ensimmäisestä varsinaisesta kuukausittaisesta / vuosineljänneksittäisestä jäsenmaksustasi. Jäsenyys ennakkomaksu pitää maksaa eräpäivään mennessä riippumatta oletko opiskelija / työtön tai varsinainen / kannattaja jäsentyypiltäsi. _Maksamaton Jäsenyys ennakkomaksu johtaa automaattisesti jäsenyyden epäämiseen_.
-- [Lomakkkeeseen, klikkaa](/jaseneksi-lomake/).
+Täytä tietosi lomakkeeseen (klikkaa alta).
+- [Lomakkeeseen, klikkaa](/jaseneksi-lomake/).
 # Jäsenen oikeuksia
 Jäsen voi saada liitolta avustusta ja tukea sellaisten oikeudellisten asioiden hoitamiseen, jotka ovat aiheutuneet työsuhdeasioissa tai hänen toiminnastaan liitossa. Hallitus päättää oikeusavun myöntämisen perusteista ja liiton myöntämistä avustuksista.  Jos jäsenelle on myönnetty oikeusapu ja tuomioistuin velvoittaa vastapuolen korvaamaan hänelle oikeudenkäyntikulut, ne tulevat liitolle korvaukseksi annetusta avusta.
 Kaikilla liiton jäsenillä on oikeus lainopilliseen neuvontaan työsuhdeasioissa sekä elinkeinotoimintaan liittyvissä sopimus- ja hallinto-oikeudellisissa asioissa.
