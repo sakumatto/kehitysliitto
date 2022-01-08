@@ -10,8 +10,8 @@ thumbnail: "/tiedotteet/setelitukko.jpg"
 
 description: "Vapaa ammattiliitto - VALO ry haluaa muistuttaa jäsenistöään toistaiseksi pysymään aiemmassa työttömyyskassassaan. Jos siis eroat vanhasta liitostasi liittyäksesi Valoliittoon, muista varmistaa, että silti pysyt kassan jäsenenä. Kassan jäsenyys ei ole sidottu liiton jäsenyyteen."
 
-slug: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
-discussionId: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
+slug: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja-tyottomyyskassa/"
+discussionId: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja-tyottomyyskassa/"
 math: true
 featured: true
 toc: false

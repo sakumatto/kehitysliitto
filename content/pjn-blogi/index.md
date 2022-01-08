@@ -10,7 +10,7 @@ description: "Puheenjohtajan blogi nro 1, jossa Aki Nummelin kertoo taustoja mih
 thumbnail: "/blogi/historiallinen-hetki/pjn-blogi.png"
 slug: "/blogi/historiallinen-hetki/"
 discussionId: "/blogi/historiallinen-hetki/"
-math: true
+featured: true
 toc: false
 draft: false
 author: valoliitto.fi
