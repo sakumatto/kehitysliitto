@@ -14,7 +14,7 @@ slug: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
 discussionId: "/tiedotteet/tiedote-2022-01-02-valoliitto-ja tyottomyyskassa/"
 math: true
 featured: true
-toc: true
+toc: false
 ---
 ## Valoliiton työttömyyskassa perustetaan hieman myöhemmin
 

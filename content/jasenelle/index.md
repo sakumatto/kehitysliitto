@@ -6,7 +6,7 @@ aliases:
    - /jäsenelle/
 discussionId: "/jasenelle/"
 date: 2022-01-01
-toc: true
+toc: false
 ---
 
 <img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/jasenelle/jasenheppu.png">

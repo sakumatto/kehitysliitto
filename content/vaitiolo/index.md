@@ -10,7 +10,7 @@ description: "Toimitsijan sekä vapaaehtoisen vaitiolovelvollisuus ja salassapit
 thumbnail: "/vaitiolo/pilli.png"
 slug: "/vaitiolo/"
 discussionId: "/vaitiolo/"
-toc: true
+toc: false
 author: valoliitto.fi
 ---
 

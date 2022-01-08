@@ -11,7 +11,7 @@ thumbnail: "/pjn-blogi/historiallinen-hetki/pjn-blogi.png"
 slug: "/pjn-blogi/historiallinen-hetki/"
 discussionId: "/pjn-blogi/historiallinen-hetki/"
 math: true
-toc: true
+toc: false
 draft: false
 author: valoliitto.fi
 ---

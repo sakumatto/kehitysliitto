@@ -4,7 +4,7 @@ slug: "/tietosuoja/"
 thumbnail: "/tietosuoja/saatytalo-tuppence.jpg"
 discussionId: "/tietosuoja/"
 date: 2022-01-02
-toc: true
+toc: false
 
 categories: ["Laillisuusasiat"]
 tags: ["Tietosuojaseloste", "Jäsenen oikeudet"]

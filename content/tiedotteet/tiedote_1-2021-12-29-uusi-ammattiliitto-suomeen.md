@@ -15,7 +15,7 @@ slug: "/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
 discussionId: "/tiedotteet/2021-12-29-tiedote-1-uusi-ammattiliitto-suomeen/"
 math: true
 featured: true
-toc: true
+toc: false
 ---
 
 ## Työoikeudellista neuvontaa kaikille jäsenille
