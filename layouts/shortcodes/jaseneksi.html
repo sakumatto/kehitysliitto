@@ -25,21 +25,23 @@ if ($('#jaseneksi option:selected').length == 0) { alert('Ammattia ei valittu');
             <input name="ptoimipaikka" id="ptoimipaikka" type="text" tabindex="5" required></p>
         <p><label for="kkunta"><b>Kotikuntasi *</b></label>
             <input name="kkunta" id="kkunta" placeholder="Kirjaa kotikuntasi vaikka olisi sama kuin postitoimipaikka" type="text" tabindex="6" required></p>
+        <p><label for="koulutus"><b>Koulutuksesi *</b></label>
+            <input name="koulutus" id="koulutus" placeholder="Kirjaa kaikki koulutuksesi ja oppiarvosi" type="text" tabindex="7" required></p>
         <p><label for="ammatti"><b>Ammattisi *</b></label>
        			{{ partial "ammatit-dropdown.html" . }}
 
         <p><label for="exliitto"><b>Aiempi ammattiliittosi *</b></label>
-            <input name="exliitto" id="exliitto" placeholder="'En siirry', jos et siirry mistään." type="text" tabindex="7" required></p>
+            <input name="exliitto" id="exliitto" placeholder="'En siirry', jos et siirry mistään." type="text" tabindex="8" required></p>
         <p><label for="vuositulo"><b>Vuositulosi *</b></label>
-            <input name="vuositulo" id="vuositulo" placeholder="Bruttotulosi, mikroyrittäjältä Myel/Yel-tulo" type="text" tabindex="8" required></p>            
+            <input name="vuositulo" id="vuositulo" placeholder="Bruttotulosi, mikroyrittäjältä Myel/Yel-tulo" type="text" tabindex="9" required></p>            
             
         <p><label for="hetu"><b>Henkilötunnuksesi *</b></label>
-            <input name="hetu" id="hetu" type="hetu" tabindex="9" required></p>
+            <input name="hetu" id="hetu" type="hetu" tabindex="10" required></p>
             
         <p><label for="email"><b>Sähköpostiosoitteesi *</b></label>
-            <input name="email" id="email" type="email" tabindex="10" required></p>
+            <input name="email" id="email" type="email" tabindex="11" required></p>
         <p><label for="phone"><b>Puhelinnumerosi *</b></label>
-            <input name="phone" id="phone" type="tel" tabindex="11" required></p>
+            <input name="phone" id="phone" type="tel" tabindex="12" required></p>
 
         <p><label for="message"><b>Viestisi</b></label>
             <textarea name="message" id="message" style="padding: 0.5rem; width: 100%; max-width: 100%"
