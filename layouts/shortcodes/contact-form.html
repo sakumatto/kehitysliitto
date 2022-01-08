@@ -1,0 +1,34 @@
+<div id="contact-form">
+    <form method="post" action="{{ .Site.Params.contactFormSubmitUrl }}">
+        <p><label for="fname"><b>Etunimesi *</b></label>
+            <input name="fname" id="fname" type="text" tabindex="1" required></p>
+        <p><label for="lname"><b>Sukunimesi *</b></label>
+            <input name="lname" id="lname" type="text" tabindex="1" required></p>
+
+        <p><label for="email"><b>Sähköpostiosoitteesi *</b></label>
+            <input name="email" id="email" type="email" tabindex="2" required></p>
+
+        <p><label for="phone"><b>Puhelinnumerosi *</b></label>
+            <input name="phone" id="phone" type="tel" tabindex="3" required></p>
+
+        <p><label for="message"><b>Viestisi *</b></label>
+            <textarea name="message" id="message" style="padding: 0.5rem; width: 100%; max-width: 100%"
+                placeholder="Tähän viestisi..." tabindex="5" required rows="10"></textarea></p>
+            <input type="hidden" name="_language" value="fi" />
+
+        <button class="button" name="submit" type="submit" id="contact-submit"
+            data-submit="...Sending">Lähetä viestisi</button>
+    </form>
+</div>
+
+
+<style>
+    #contact-form {
+        margin-top: 5rem;
+    }
+    #contact-form input,
+    #contact-form textarea {
+        width: 30rem;
+        max-width: 100%;
+    }
+</style>

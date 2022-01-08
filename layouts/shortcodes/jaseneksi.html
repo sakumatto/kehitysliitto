@@ -1,0 +1,50 @@
+<div id="jaseneksi">
+    <form method="post" action="{{ .Site.Params.jaseneksiFormSubmitUrl }}">
+        <p><label for="fname"><b>Etunimesi (Kaikki etunimet) *</b></label>
+            <input name="fname" id="fname" type="text" tabindex="1" required></p>
+        <p><label for="lname"><b>Sukunimesi *</b></label>
+            <input name="lname" id="lname" type="text" tabindex="2" required></p>
+
+        <p><label for="posoite"><b>Postiosoitteesi *</b></label>
+            <input name="posoite" id="posoite" type="text" tabindex="3" required></p>
+        <p><label for="pnumero"><b>Postinumerosi *</b></label>
+            <input name="pnumero" id="pnumero" type="text" tabindex="4" required></p>
+        <p><label for="ptoimipaikka"><b>Postitoimipaikkasi *</b></label>
+            <input name="ptoimipaikka" id="ptoimipaikka" type="text" tabindex="5" required></p>
+
+        <p><label for="ammatti"><b>Ammattisi *</b></label>
+            <input name="ammatti" id="ammatti" type="text" tabindex="6" required></p>
+        <p><label for="exliitto"><b>Ex-liittosi *</b></label>
+            <input name="exliitto" id="exliitto" type="text" tabindex="7" required></p>
+        <p><label for="vuositulo"><b>Vuositulosi *</b></label>
+            <input name="vuositulo" id="vuositulo" type="text" tabindex="8" required></p>            
+            
+        <p><label for="hetu"><b>Henkilötunnuksesi *</b></label>
+            <input name="hetu" id="hetu" type="hetu" tabindex="9" required></p>
+            
+        <p><label for="email"><b>Sähköpostiosoitteesi *</b></label>
+            <input name="email" id="email" type="email" tabindex="10" required></p>
+        <p><label for="phone"><b>Puhelinnumerosi *</b></label>
+            <input name="phone" id="phone" type="tel" tabindex="11" required></p>
+
+        <p><label for="message"><b>Viestisi</b></label>
+            <textarea name="message" id="message" style="padding: 0.5rem; width: 100%; max-width: 100%"
+                placeholder="Mahdollinen viestisi hallitukselle (vapaaehtoinen)" tabindex="5" required rows="10"></textarea></p>
+            <input type="hidden" name="_language" value="fi" />
+
+        <button class="button" name="submit" type="submit" id="contact-submit"
+            data-submit="...Lähettää">Lähetä jäsenanomuksesi</button>
+    </form>
+</div>
+
+
+<style>
+    #jaseneksi {
+        margin-top: 1rem;
+    }
+    #jaseneksi input,
+    #jaseneksi textarea {
+        width: 30rem;
+        max-width: 100%;
+    }
+</style>
