@@ -7,7 +7,7 @@ tags:
 - Salassapitositoumus
 - Laillisuusasiat
 description: "Toimitsijan sekä vapaaehtoisen vaitiolovelvollisuus ja salassapitositoumus toimessaan Vapaa ammattiliitto - VALO ry:ssä"
-thumbnail: "/vaitiolo/pilli.png"
+thumbnail: "/vaitiolo/vaitiolo.jpeg"
 slug: "/vaitiolo/"
 discussionId: "/vaitiolo/"
 toc: false

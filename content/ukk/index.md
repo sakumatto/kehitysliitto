@@ -5,8 +5,9 @@ date: 2022-01-09
 categories: ["Laillisuusasiat"]
 tags:
 - Laillisuusasiat
+- Oikeustieteellinen apu
 description: "VALOliitto on olemassa jäseniään varten ja osana tuota haluamme vastata kysymyksiinne. Tässä usein esitettyjä kysymyksiä ja vastauksia niihin."
-thumbnail: "/ukk/pilli.png"
+thumbnail: "/ukk/ukk-oikeussali.jpg"
 slug: "/ukk/"
 toc: true
 author: valoliitto.fi

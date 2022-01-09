@@ -6,8 +6,8 @@ categories: ["Laillisuusasiat"]
 tags:
 - Evästeet
 - Laillisuusasiat
-description: "Sivustomme on luotu on staattisella sivustogeneraattorilla. Myös staattiset verkkosivut voivat integroitua ulkoisiin palveluihin, kuten YouTubeen, jotka käyttävät evästeitä."
-thumbnail: "/evasteet/pilli.png"
+description: "Sivustomme on luotu staattisella sivustogeneraattorilla. Myös staattiset verkkosivut voivat integroitua ulkoisiin palveluihin, kuten YouTubeen, jotka käyttävät evästeitä."
+thumbnail: "/evasteet/evasteet.jpg"
 slug: "/evasteet/"
 toc: false
 author: valoliitto.fi
