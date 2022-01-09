@@ -1,19 +1,19 @@
 ---
 title: "Tiedote 3: Vapaa ammattiliitto - VALO ry ottaa nyt jäseniä"
-date: 2022-01-10
+date: 2022-01-09
 categories: ["Tiedotteet"]
 tags:
 - Tiedote
 - Ammattiliitto VALO
 
-thumbnail: "/tiedotteet/liity-narut.jpg"
+thumbnail: "/tiedotteet/liitto.jpg"
 
 description: "Vapaa ammattiliitto - VALO ry  on nyt valmis ottamaan vastaan uusia jäseniä, tervetuloa"
 
 slug: "/tiedotteet/tiedote-2022-01-10-valoliitto-ottaa-jasenia/"
 discussionId: "/tiedotteet/tiedote-2022-01-02-valoliitto-ottaa-jasenia/"
 featured: true
-draft: true
+draft: false
 toc: false
 ---
 
