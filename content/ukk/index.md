@@ -49,7 +49,7 @@ Tämän momentin loppuosaa arvioin tuossa ylempänä, joten en siihen palaa.
 Sen sijaan totean, että lähtökohtaisesti työnantajan velvollisuus tarjota muuta työtä on vahva velvoite ja työnantajan pitää osoittaa, että se on tosiasiallisesti yrittänyt kaikin keinoin täyttää tämän velvoitteen.
 
 
-#### Akuutteja kysymyksiä ja vastauksia niihin:
+## Akuutteja kysymyksiä ja vastauksia niihin:
 
 ##### 1. Jos palkanmaksu keskeytyy puutteellisen COVID-19 suojan puutteen takia, niin millä aikataululla työntekijä on velvoitettu palaamaan työsopimuksen mukaiseen työhön (jos työpaikalla siis työntekijäpula ja työnantaja päättää käyttää puutteellisen suojan omaavia työntekijöitä)?
 
