@@ -63,8 +63,8 @@
   weight = 10
 
 [[main]]
-  name = "Liiton tilitiedot"
-  url = "/meista/#tilitiedot"
+  name = "Jäsenten usein kysytyt kysymykset"
+  url = "/ukk/"
   parent = "tietoa"
   weight = 20
 
@@ -73,6 +73,12 @@
   url = "/yhteydenotto/"
   parent = "tietoa"
   weight = 30
+
+[[main]]
+  name = "Liiton tilitiedot"
+  url = "/meista/#tilitiedot"
+  parent = "tietoa"
+  weight = 40
 
 [[main]]
   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"

@@ -27,6 +27,6 @@ Täytä tietosi lomakkeeseen ja huomaathan seuraavaa:
 1) Jokainen kohta on pakollinen tieto (paitsi viesti).
 1) Ilmoittautuminen on sitova.
 1) Liittohallitus käsittelee jäsenanomuksen pääsääntöisesti seuraavassa kokouksessaan. Saat lisäksi tiedon hyväksynnästä sähköpostiisi.
-1) Saat jäsenyyden ennakkomaksu -laskun kun jäsenanomuksesi on käsitelty. Etumaksun summa 20€ vähennetään ensimmäisestä varsinaisesta kuukausittaisesta / vuosineljänneksittäisestä jäsenmaksustasi. Jäsenyyden ennakkomaksu pitää maksaa eräpäivään mennessä riippumatta oletko opiskelija / työtön tai varsinainen / kannattaja jäsentyypiltäsi. _Maksamaton jäsenyyden ennakkomaksu johtaa automaattisesti jäsenyyden epäämiseen_.
+1) Saat jäsenyyden ennakkomaksu -laskun kun jäsenanomuksesi on käsitelty. Ennakkomaksun summa 20€ vähennetään ensimmäisestä varsinaisesta kuukausittaisesta / vuosineljänneksittäisestä jäsenmaksustasi. Jäsenyyden ennakkomaksu pitää maksaa eräpäivään mennessä riippumatta oletko opiskelija / työtön tai varsinainen / kannattaja jäsentyypiltäsi. _Maksamaton jäsenyyden ennakkomaksu johtaa automaattisesti jäsenyyden epäämiseen_.
 
 {{< jaseneksi action="https://formspree.io/f/myyozvgk" >}}

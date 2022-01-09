@@ -76,11 +76,11 @@ Hallituksen tehtävänä on muun muassa:
 | Hannele Säteentie (vara)                  | Kuvaus | hannele(piste)sateentie(ät-merkki)valoliitto.fi   |
 
 
-* Tiedotusvastaava, Tiina Peltokangas, toimii hallituksen alaisuudessa, tiina(piste)peltokangas(ät-merkki)valoliitto.fi
+* Tiedotusvastaava, Senni Nieminen, senni(piste)nieminen(ät-merkki)valoliitto.fi
 
 
 ## Liittokokous
-Liiton vuosikokous, jota kutsutaan liittokokoukseksi, pidetään vuosittain hallituksen määräämänä päivänä maaliskuussa-toukokuussa.
+Liiton vuosikokous, jota kutsutaan liittokokoukseksi, pidetään vuosittain hallituksen määräämänä päivänä maalis-toukokuussa.
 Ylimääräinen liittokokous pidetään, kun liittokokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kaksi kymmenesosaa (2/10) yhdistyksen äänioikeutetuista sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kuudenkymmenen (60) vuorokauden kuluttua siitä, kun vaatimus sen pitämisestä on esitetty hallitukselle.
 Liittokokouksessa jokaisella jäsenellä on yksi (1) ääni. Kannatusjäsenillä on liittokokouksessa läsnäolo-oikeus.
 Liittokokouksen päätökseksi tulee – ellei säännöissä ole toisin määrätty – se mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä tasan ratkaisee liittokokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
