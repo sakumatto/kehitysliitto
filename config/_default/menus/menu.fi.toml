@@ -34,6 +34,13 @@
   weight = 20
 
 [[main]]
+  name = "Evästeet"
+  url = "/evasteet/"
+  parent = "Lakiasiat"
+  weight = 30
+
+
+[[main]]
   name = "Meistä"
   url = "/meista/"
   weight = 30

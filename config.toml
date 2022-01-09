@@ -62,7 +62,7 @@ liitonYhteystiedot ="Viimatie 14, 28190 PORI, 0400432428"
 codeLineNumbers = true
 
 # Google analytics Id
-ga_analytics = "UA-eiole"
+#ga_analytics = "UA-eiole"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 8 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
@@ -124,10 +124,6 @@ jaseneksiFormSubmitUrl = "https://formspree.io/f/xbjwlwrr"
 # Google Adsense
 # adsenseDataAdClient = ""
 
-# Cookie Consent
-showCookieConsent = true
-privacyPolicyPage = "/tietosuoja/"
-
 [related]
   includeNewer = true
   threshold = 10
@@ -144,3 +140,22 @@ privacyPolicyPage = "/tietosuoja/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+######## EVÄSTEET
+showCookieConsent = true
+privacyPolicyPage = "/evasteet/"
+
+[privacy] # https://gohugo.io/about/hugo-and-gdpr/
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+    

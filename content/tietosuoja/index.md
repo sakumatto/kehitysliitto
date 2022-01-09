@@ -40,7 +40,7 @@ Sähköposti tietosuojavastaava(ät-merkki)valoliitto.fi
 Henkilötietojen käsittelyn tarkoitus:
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin ja sen sisältämien henkilötietojen käyttötarkoitus on ...
 Henkilötietojen käsittelyn oikeusperuste:
-Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin henkilötietojen käsittely perustuu rekisteröidyltä jäseneltä saatuun suostumukseen. Jäseneksi liittyminen on vapaaehtoista.
+Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin henkilötietojen käsittely perustuu rekisteröidyltä jäseneltä saatuun suostumukseen sekä lailliseen oikeutukseen kerätä ammattiliiton jäsentietoja, mukaan lukien kerätä ja käsitellä erityisiin henkilötietoryhmiin kuuluvia henkilötietoja. Jäseneksi liittyminen on vapaaehtoista. [Lue lisää tietosuojavaltuutetun sivuilta](https://tietosuoja.fi/usein-kysyttya-yhdistystoiminta).
 
 ## 5 Rekisterinpitäjän tai kolmannen osapuolen oikeutetut edut
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin tietojen käsittelyn oikeusperuste ei ole ”oikeutettu etu”. Siksi tämä kohta ei sovellu.
@@ -48,33 +48,40 @@ Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin tietojen käsittely
 ## 6 Rekisterin henkilötietoryhmät
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterin rekisteröityjä ovat ammattiliiton jäsenet.
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisteriin tallennetaan seuraavia henkilötietoja:
-PERUS- JA YHTEYSTIEDOT
-    etunimet, sukunimi, osoite, kotikunta,
-    ammatti
-    aiemmin hankittu osaaminen (tutkinnot, muu osaaminen/työkokemus)
+
+#### PERUS- JA YHTEYSTIEDOT
+1) etunimet, sukunimi, osoite, kotikunta
+1) ammatti, aiemmin hankittu osaaminen (tutkinnot, muu osaaminen/työkokemus)
+1) entinen ammattiliitto, vuositulot, jäsenmaksutieto, palkkatodistus
+1) henkilötunnus tai y-tunnus
+1) sähköpostiosoite, puhelinnumero, liittymisviesti hallitukselle
+1) jäseneksitulopäivämäärä, jäsenyyden päättymispäivämäärä, yhteydenottopäivämäärä, yhteydenoton asia
+1) jäsenen kuuluminen liiton sisäisiin erityisryhmiin ja koulutukset liiton sisällä
+
 ## 7 Henkilötietojen säännönmukaiset tietolähteet
-Henkilötiedot on saatu rekisteröidyltä itseltään.
+Henkilötiedot on saatu rekisteröidyltä itseltään tai liittyen heidän toimintaansa interaktiossa yhdistykseen.
 
 ## 8 Henkilötietojen käsittelyssä käytettävät tietojärjestelmät
 Vapaa ammattiliitto - VALO ry:n jäsenten henkilörekisterissä olevia tietoja käsitellään ammattikiiton hankkimilla eri tietojärjestelmillä, sovelluksilla ja ohjelmistoilla.
 Ammattiliiton käytössä olevia laitteita, tietojärjestelmiä, sovelluksia ja ohjelmistoja ovat:
-ohjelmisto xxx
+ohjelmisto Finvoicer-jäsenrekisterilaskutus, MariaDB-tietokantasovellusjäsenrekisteri
 
 VALO ry:n omalla palvelimella toimivalla ohjelmistolla toteutetaan sähköisesti jäsenrekisterin ylläpitotoiminnot verkkoliikennelokiaineistoa sivun kautta reaaliaikaisesti tehden.
 Jäsenrekisterin hallintajärjestelmä...
-Uusien, jäsentietonsa rekisteriin kirjanneiden tiedot on kirjattu jäsenhallintojärjestelmään keskitetysti.  
+Uusien, jäsentietonsa rekisteriin kirjanneiden tiedot on kirjattu jäsenhallintojärjestelmään hajautetusti yhtäältä Finvoicer-jäsenlaskutukseen ja toisaalta tietokantasovellusjäsenrekisteriin.  
 
-VALO ry:n  www-sivut...
+VALO ry:n  www-sivut sijaitsevat Netlify.com-alustalla. Niillä ei käsitellä jäsentietoja.
 
 VALO ry:n sähköpostijärjestelmä
-VALO ry:n omalla palvelimella toimivaa sähköpostijärjestelmää voidaan käyttää rekisterin sisältämien henkilötietojen käsittelyyn silloin, jos rekisteröityjä informoidaan...
+VALO ry:n omalla palvelimella toimivaa sähköpostijärjestelmää voidaan käyttää rekisterin sisältämien henkilötietojen käsittelyyn silloin, jos rekisteröityjen kanssa ollaan vuorovaikutuksessa. Näin muodostuvat tiedot ovat keskustelun osapuolten saatavilla. 
 
 ## 9 Tietojen vastaanottajat tai vastaanottajaryhmät sekä säännönmukaiset luovutukset
 VALO ry:n henkilörekisterin sisältämiin tietoihin annetaan tarpeen vaatiessa pääsy (ns. admin-tunnusten avulla, esim. teknisen vian korjaustilanteessa järjestelmän ylläpitohenkilölle/-henkilöille seuraavaksi lueteltavissa järjestelmissä. Kaikki käytettävät järjestelmien/laitteiden/ohjelmistojen toimittajat (yritykset niiden takana) ovat tulkittavissa henkilötietojen vastaanottajiksi ja säännönmukaisen luovutuksen saajaksi rekisterin taholta.
 VALO ry:n käyttämien järjestelmien osalta henkilötietojen käsittelysopimukset GDPR:n artiklan 28 mukaisesti on laadittu/tullaan laatimaan seuraavien yhteistyökumppanitahojen kanssa:
-Seclan Oy...
-ITC Solution Group Oy...
-VALO ry:n omalla palvelimella toimivalla ohjelmistolla toteutetaan sähköisesti...
+Finvoicer Group Oy [katso erillinen tietosuojaliite](/tietosuoja/finvoicer-tietosuojaliite.pdf), 
+Seclan Oy, 
+ITC Solution Group Oy, 
+VALO ry:n omalla palvelimella toimivalla ohjelmistolla toteutetaan sähköisesti siirtoa pääasiallisen tiedon tallenteen ja varmuuskopioiden välillä.
 
 ## 10 Tietojen siirto EU:n tai ETA:n ulkopuolelle tai kansainvälisiin järjestöihin
 VALO ry:n henkilörekisterin sisältämiä henkilötietoja ei pääsääntöisesti siirretä EU:n tai ETA:n ulkopuolelle tai kansainvälisiin järjestöihin.
@@ -83,7 +90,7 @@ VALO ry:n henkilörekisteristä Yhdysvaltoihin ja/tai muualle EU-/ETA-alueen ulk
 Vain välttämättömät tiedot siirretään ja siirto tehdään tietosuojalainsäädännön mukaisesti ja sen asettamissa rajoissa. Siirron turvallisuudesta ja tietosuojasta sovitaan aina erikseen.
 
 ## 11 Henkilötietojen säilyttämisaika
-xxxxxxxxxxx
+Jäsentiedot säilytetään koko jäsenyyden ajan ja kymmenen vuotta sen päättymisen jälkeen.
 
 ## 12 Rekisteröidyn oikeudet
 Rekisteröidyllä on oikeus saada rekisterinpitäjältä vahvistus siitä, käsitelläänkö häntä koskevia henkilötietoja vai ei. Rekisteröidyllä on lisäksi oikeus saada pääsy rekisteröityä itseään koskeviin henkilötietoihin sekä oikeus tarkastaa rekisteriin tallennetut itseään koskevat tiedot ja saada niistä kopiot. Rekisteröidyn oikeuksien toteuttamispyyntöön on tietosuoja-asetuksen mukaisesti rekisterinpitäjän annettava vastaus kuukauden kuluttua pyynnön vastaanottamisesta.
@@ -99,7 +106,7 @@ rekisterinpitäjä ei enää tarvitse kyseisiä henkilötietoja käsittelyn tark
 C. Oikeus tietojen poistamiseen
 Rekisteröidyllä on oikeus saada häntä koskevat henkilötiedot poistettua VALO ry:n rekisteristä ilman aiheetonta viivytystä edellyttäen, että jokin seuraavista täyttyy:
 henkilötietoja ei enää tarvita niihin tarkoituksiin, joita varten ne kerättiin tai joita varten niitä muutoin käsiteltiin;
-rekisteröity peruuttaa suostumuksen, johon käsittely on perustunut, eikä käsittelyyn ole muuta laillista perustetta;
+rekisteröity peruuttaa suostumuksen, johon käsittely on perustunut, eikä käsittelyyn ole muuta laillista perustetta; JA että kymmenen vuoden jäsenyyden jälkeinen aika on kulunut TAI jos
 henkilötietoja on käsitelty lainvastaisesti; tai
 henkilötiedot on poistettava unionin oikeuteen tai kansallisen lainsäädäntöön perustuvan lakisääteisen velvoitteen noudattamiseksi.
 
