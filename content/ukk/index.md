@@ -13,8 +13,8 @@ toc: true
 author: valoliitto.fi
 ---
 
-## Usein kysyttyjä kysymyksiä nykytilanteesta
-#### Yleistä arviota tartuntatautilain 48a -pykälästä ja sen vaikutuksista:
+# Usein kysyttyjä kysymyksiä nykytilanteesta
+###### Yleistä arviota tartuntatautilain 48a -pykälästä ja sen vaikutuksista:
 
 Ensisijaisesti työntekijöitä kiinnostaa se, voiko tartuntatautilain perusteella ihmiset jättää ilman toimeentuloa (ilman työttömyyskorvausta) ja mielestäni selkeä vastaus on, että ei.
 
@@ -50,9 +50,9 @@ Tämän momentin loppuosaa arvioin tuossa ylempänä, joten en siihen palaa.
 Sen sijaan totean, että lähtökohtaisesti työnantajan velvollisuus tarjota muuta työtä on vahva velvoite ja työnantajan pitää osoittaa, että se on tosiasiallisesti yrittänyt kaikin keinoin täyttää tämän velvoitteen.
 
 
-## Akuutteja kysymyksiä ja vastauksia niihin:
+### Akuutteja kysymyksiä ja vastauksia niihin:
 
-##### 1. Jos palkanmaksu keskeytyy puutteellisen COVID-19 suojan puutteen takia, niin millä aikataululla työntekijä on velvoitettu palaamaan työsopimuksen mukaiseen työhön (jos työpaikalla siis työntekijäpula ja työnantaja päättää käyttää puutteellisen suojan omaavia työntekijöitä)?
+### 1. Jos palkanmaksu keskeytyy puutteellisen COVID-19 suojan puutteen takia, niin millä aikataululla työntekijä on velvoitettu palaamaan työsopimuksen mukaiseen työhön (jos työpaikalla siis työntekijäpula ja työnantaja päättää käyttää puutteellisen suojan omaavia työntekijöitä)?
 
 Palkanmaksun keskeyttäminen tartuntatautilain perusteella on ylipäänsä erittäin kyseenalainen toimi ja on hankalaa sanoa, pätisikö palkanmaksun keskeyttäminen, jos asian veisi oikeuteen tutkittavaksi.
 Mutta jos muusta lainsäädännöstä (työsopimuslaki) on löydettävissä jotain vastausta esitettyyn kysymykseen, niin lähinnä kannattaa katsoa työsopimuslain lomautuslukua. Siinä sanotaan lomautukselta töihin paluusta seuraavaa:
@@ -62,27 +62,27 @@ Jos työntekijä on lomautettu toistaiseksi, työnantajan on ilmoitettava työn 
 Työntekijällä on oikeus irtisanoa lomautuksen ajaksi toisen työnantajan kanssa tekemänsä työsopimus sen kestosta riippumatta viiden päivän irtisanomisaikaa noudattaen.
 
 
-##### 2. Onko työntekijä velvoitettu vastaamaan esim. esihenkilön yhteydenottoihin, kun on palkattomalla?
+### 2. Onko työntekijä velvoitettu vastaamaan esim. esihenkilön yhteydenottoihin, kun on palkattomalla?
 
 Nähdäkseni kyllä, jos työsuhde on edelleen voimassa. Onhan mahdollista, että kutsutaan takaisin töihin.
 
-##### 3. Jos COVID-19 suojan on määritelty olevan 2 rokotetta, niin voiko työnantaja muuttaa määritystä myöhemmin ja vaatia enemmän boostereita?
+### 3. Jos COVID-19 suojan on määritelty olevan 2 rokotetta, niin voiko työnantaja muuttaa määritystä myöhemmin ja vaatia enemmän boostereita?
 
 Työnantaja ei voi muuttaa määritystä, vaan määritelmän tulee tulla laista.
 
-##### 4. Jos työnantajan palkanmaksuvelvoite keskeytyy ja työntekijä sairastaa COVID-19, niin onko työntekijällä heti oikeus palata työhönsä, kun täyttää ”kelpoisuusvaatimukset”?
+### 4. Jos työnantajan palkanmaksuvelvoite keskeytyy ja työntekijä sairastaa COVID-19, niin onko työntekijällä heti oikeus palata työhönsä, kun täyttää ”kelpoisuusvaatimukset”?
 
 Nähdäkseni kyllä.
 
-##### 5. Kuinka vahva velvoite työnantajalla on tarjota/selvitellä muuta työtä ja pitääkö se todentaa jotenkin? Meille on myyty koko ajan ”ei oota”.
+### 5. Kuinka vahva velvoite työnantajalla on tarjota/selvitellä muuta työtä ja pitääkö se todentaa jotenkin? Meille on myyty koko ajan ”ei oota”.
 
 Työnantajan pitää osoittaa, että hän on selkeästi yrittänyt järjestää muuta työtä ”rokottamattomalle” työntekijälle. Asiasta pitää olla myös kirjallinen selvitys.
 
-##### 6. Pitääkö työnantajan antaa kirjallinen ilmoitus palkanmaksun keskeytymisestä ja sen kestosta?
+### 6. Pitääkö työnantajan antaa kirjallinen ilmoitus palkanmaksun keskeytymisestä ja sen kestosta?
 
 Ehdottomasti.
 
-##### 7. Hätätapauksessa työnantaja voi käyttää puutteellisen suojan omaavaa henkilöä. Mitä tämä tarkoittaa? Pitääkö palkattomalla olevan työntekijän olla jatkuvassa hätävalmiudessa hätätapauksien varalta? Minkälaisella aikataululla? Voiko työnantaja esim. laittaa minulle työvuorolistaan yhtäkkiä viikon töitä ja potkaista taas pihalle?
+### 7. Hätätapauksessa työnantaja voi käyttää puutteellisen suojan omaavaa henkilöä. Mitä tämä tarkoittaa? Pitääkö palkattomalla olevan työntekijän olla jatkuvassa hätävalmiudessa hätätapauksien varalta? Minkälaisella aikataululla? Voiko työnantaja esim. laittaa minulle työvuorolistaan yhtäkkiä viikon töitä ja potkaista taas pihalle?
 
 Hallituksen esittämä ja eduskunnan hyväksymä lainsäädäntö on hyvin mielivaltainen ja epäselvä. Lähinnä kannattaa katsoa työsopimuslain lomautuslukua. Siinä sanotaan lomautukselta töihin paluusta seuraavaa:
 6 §
@@ -96,18 +96,38 @@ Myös työntekijän mielivaltainen kohtelu on lähtökohtaisesti kielletty. Jos 
 
 Kaikki nämä asiat pitää kyseenalaistaa ja kysyä työnantajalta ns. oikeita kysymyksiä.
 
-##### 8. Työnantaja on vaatinut työntekijöitään toimittamaan 14.1.22 mennessä rokotetiedot suljetussa kirjekuoressa pöydälleen? Voiko näin toimia? Miten minun tulisi toimia?
+### 8. Työnantaja on vaatinut työntekijöitään toimittamaan 14.1.22 mennessä rokotetiedot suljetussa kirjekuoressa pöydälleen? Voiko näin toimia? Miten minun tulisi toimia?
 
 Työntekijän ei tarvitse totella tällaista, sillä jokaisella on oikeus omiin henkilökohtaisiin terveystietoihinsa, eikä niitä tarvitse jakaa muille.
 Työnantajalla on uuden tartuntatautilain pykälän 48a mukaan oikeus tarkastella työntekijöiden rokotetietoja, mutta hänen pitää se itse suorittaa.
 Nähdäkseni asiassa ei työntekijän tarvitse tehdä mitään.
 
-##### 9. Jos puutteellisen suojan omaavan henkilön palkanmaksu keskeytyy ja tämän tilalle joudutaan palkkaamaan työntekijä, niin onko sijaisena käytetyllä työntekijällä oltava täydellinen suoja? 
+### 9. Jos puutteellisen suojan omaavan henkilön palkanmaksu keskeytyy ja tämän tilalle joudutaan palkkaamaan työntekijä, niin onko sijaisena käytetyllä työntekijällä oltava täydellinen suoja? 
 
 Nähdäkseni on oltava.
 
-##### 10. Mistä päivästä palkanmaksun voi keskeyttää?
+### 10. Mistä päivästä palkanmaksun voi keskeyttää?
 
 Tämä kuuluu asioihin, joihin lainsäädäntö ei vastaa käytännössä mitään.
 Todennäköisesti heti siinä vaiheessa, kun työntekijän ”kelvottomuus” todetaan.
+
+### 11. Mediassa on puhuttu valmiuslain mahdollisesta käyttöönotosta ja sotealan pakkotyöstä. Kuinka pakkotyötä voidaan teettää ja millä perustein?
+
+Tällä hetkellä ei voi pakkotyöhön määrätä, hätätyötä voidaan määrätä tekemään korkeintaan. Hätätyötä ei voida teettää loputtomasti. Hätätyö ei saa kestää pitkään, vaan hallituksen pitää järjestää asia muulla tavalla. Muuten pakkotyöstä tulee orjatyötä, joka on kv-sopimuksilla kielletty. Alla hätätyötä koskevat lakipykälät.
+
+
+- Työaikalaki 872/2019
+
+19 § __Hätätyö__
+
+Työnantaja saa teettää hätätyötä, jos ennalta arvaamaton tapahtuma on aiheuttanut keskeytyksen säännöllisessä toiminnassa tai vakavasti uhkaa johtaa sellaiseen keskeytykseen tai hengen, terveyden, omaisuuden tai ympäristön vaarantumiseen. Hätätyötä saa teettää säännöllisen työajan lisäksi vain siinä määrin kuin se on välttämätöntä ja enintään kahden viikon ajan. Hätätyössä saa poiketa siitä, mitä 8, 17 ja 24–27 §:ssä säädetään. Hätätyön päätyttyä työaika on kuitenkin tasoitettava enintään 18 §:ssä säädettyyn enimmäismäärään ja työntekijälle on annettava korvaava lepoaika 25 §:n 4 momentissa ja 28 §:n 2 momentissa säädetyllä tavalla.
+Työnantajan on viivytyksettä tehtävä työsuojeluviranomaiselle kirjallinen ilmoitus hätätyön syystä, laajuudesta ja todennäköisestä kestosta. Työnantajan on varattava hätätyötä tekeviä työntekijöitä edustavalle luottamusmiehelle tai, jos tällaista ei ole valittu, työsuojeluvaltuutetulle tai luottamusvaltuutetulle taikka muulle työntekijöiden edustajalle tilaisuus liittää ilmoitukseen lausuntonsa. Työsuojeluviranomainen voi tutkittuaan asian joko jättää sen saamansa ilmoituksen varaan tai ryhtyä toimenpiteisiin hätätyön rajoittamiseksi tai lopettamiseksi.
+
+
+- Laki nuorista työntekijöistä 19.11.1993/998 
+
+5 § __Ylityö ja hätätyö__ (5.7.2019/878)
+
+Viisitoista vuotta täyttänyttä henkilöä saa hänen suostumuksellaan pitää vuorokautisen säännöllisen työajan tai muun säännöllisen työajan lisäksi tehtävässä ylityössä enintään 80 tuntia kalenterivuodessa.
+Alle 15-vuotiasta ei saa pitää ylityössä eikä hätätyössä. Viisitoista vuotta täyttänyttä saa pitää hätätyössä työaikalain (872/2019) 19 §:ssä säädetyin edellytyksin vain, jos hätätyön teettämiseen ei ole käytettävissä 18 vuotta täyttänyttä. Jos nuoren työntekijän tämän lain 8 §:ssä säädettyä lepoaikaa on lyhennetty hätätyötä tehtäessä, nuorelle on annettava korvaava lepoaika mahdollisimman nopeasti, kuitenkin kolmen viikon kuluessa hätätyön päättymisestä.
 
