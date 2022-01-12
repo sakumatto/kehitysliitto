@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 # baseurl = "http://81.19.123.73/"  # Include trailing slash
-baseurl = "https://valoliitto.netlify.app/"  # Include trailing slash
+baseurl = "https://valoliitto.fi/"  # Include trailing slash
 title = "valoliitto.fi"
 author = "valoliitto.fi"
 
