@@ -1,15 +1,4 @@
-<script type='text/javascript'>
 
-var valittu = document.getElementById('jaseneksi');
-if (valittu)
-{
-   if (valittu.selectedIndex != null)
-   {
-       valittu.selectedIndex = 0;
-   } 
-}
-if ($('#jaseneksi option:selected').length == 0) { alert('Ammattia ei valittu'); }
-</script>
 <div id="jaseneksi">
     <form method="post" action="{{ .Site.Params.jaseneksiFormSubmitUrl }}">
         <p><label for="fname"><b>Etunimesi (Kaikki etunimet) *</b></label>
@@ -52,6 +41,10 @@ if ($('#jaseneksi option:selected').length == 0) { alert('Ammattia ei valittu');
 Lähettämällä lomakkeen sitoudut <a href="/saannot/">liiton sääntöihin</a>ja sitoudut suorittamaan yllä kuvatun mukaisen ennakkomaksun. Annat myös luvan tallentaa tietosi <a href="/tietosuoja/">jäsenrekisteriimme</a>.
 
 </div>
+		<p>
+		<label class="label" for="ok"><input type="checkbox" name="ok" id="ok" tabindex="13" required /> <b>Hyväksyn</b></label>
+		</p>
+		
         <button class="button" name="submit" type="submit" id="contact-submit"
             data-submit="...Lähettää">Lähetä jäsenanomuksesi</button>
     </form>
@@ -67,4 +60,18 @@ Lähettämällä lomakkeen sitoudut <a href="/saannot/">liiton sääntöihin</a>
         width: 30rem;
         max-width: 100%;
     }
+    #jaseneksi input[type=checkbox] {
+  		 width: 1.2rem;
+}
+	.label {
+        background-color: #fff;
+        border: 1px solid #666;
+        color: #000;
+        padding: 10px 15px;
+        text-align: center;
+        display: inline-block;
+        font-size: 1.2rem;
+        margin: 15px;
+        cursor: pointer;
+      }
 </style>
