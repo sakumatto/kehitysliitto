@@ -1,5 +1,5 @@
 +++
-author = "valoliitto.fi"
+author = "valo-liitto.fi"
 title = "Etusivu"
 +++
 

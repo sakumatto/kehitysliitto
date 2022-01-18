@@ -10,7 +10,7 @@ description: "VALOliitto on olemassa jäseniään varten ja osana tuota haluamme
 thumbnail: "/ukk/ukk-oikeussali.jpg"
 slug: "/ukk/"
 toc: true
-author: valoliitto.fi
+author: valo-liitto.fi
 ---
 
 # Usein kysyttyjä kysymyksiä nykytilanteesta

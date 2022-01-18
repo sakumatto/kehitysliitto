@@ -32,7 +32,7 @@ Rekisterinpitäjän vastuuhenkilönä toimii tietosuojavastaava
 
 Henkilötietojen käsittelyä koskevat tiedustelut ja pyynnöt lähetetään rekisterinpitäjälle osoitteeseen
 
-tietosuojaavastaava@valoliitto.fi
+tietosuojaavastaava@valo-liitto.fi
 
 ## 3 Henkilötietojen käsittelyn tarkoitukset ja oikeusperuste
 

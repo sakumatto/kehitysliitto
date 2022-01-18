@@ -1,9 +1,11 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "http://81.19.123.88/"  # Include trailing slash
-# baseurl = "https://valoliitto.fi/"  # Include trailing slash
-title = "valoliitto.fi"
-author = "valoliitto.fi"
+
+baseurl = "https://valo-liitto.fi/"  # Include trailing slash
+disableHugoGeneratorInject = false # show Hugo version in meta
+
+title = "valo-liitto.fi"
+author = "valo-liitto.fi"
 
   dateFormat = "02.01.2006"
 
@@ -51,7 +53,7 @@ series = "series"
 #  saannot = "/:06/:1/:2/:title/"
 
 [params]
-author = "valoliitto.fi"
+author = "valo-liitto.fi"
 twitter = "@valoliitto"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."

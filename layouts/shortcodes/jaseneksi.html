@@ -38,7 +38,7 @@
             <input type="hidden" name="_language" value="fi" />
 <div class="huomaa">
 
-Lähettämällä lomakkeen sitoudut <a href="/saannot/">liiton sääntöihin</a>ja sitoudut suorittamaan yllä kuvatun mukaisen ennakkomaksun. Annat myös luvan tallentaa tietosi <a href="/tietosuoja/">jäsenrekisteriimme</a>.
+Lähettämällä lomakkeen sitoudut <a href="/saannot/">liiton sääntöihin</a> ja sitoudut suorittamaan yllä kuvatun mukaisen ennakkomaksun. Annat myös luvan tallentaa tietosi <a href="/tietosuoja/">jäsenrekisteriimme</a>.
 
 </div>
 		<p>
@@ -62,6 +62,20 @@ Lähettämällä lomakkeen sitoudut <a href="/saannot/">liiton sääntöihin</a>
     }
     #jaseneksi input[type=checkbox] {
   		 width: 1.2rem;
+}
+	  #jaseneksi::after {
+	  	width:40rem;
+  		content: "Muistathan: pysy työttömyyskassassasi!";
+  		background-color: #fff;
+        border: 1px solid #666;
+        color: #000;
+        padding: 10px 15px;
+        text-align: center;
+        display: inline-block;
+        font-size: 1.2rem;
+        margin: 15px;
+        margin-top:75px;
+        cursor: none;
 }
 	.label {
         background-color: #fff;

@@ -11,7 +11,7 @@ thumbnail: "/vaitiolo/vaitiolo.jpeg"
 slug: "/vaitiolo/"
 discussionId: "/vaitiolo/"
 toc: false
-author: valoliitto.fi
+author: valo-liitto.fi
 ---
 
 [Tulosta allekirjoitettavaksi alla oleva teksti](vaitiolositoumus-valo-2022-01-08.pdf)

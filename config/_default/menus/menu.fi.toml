@@ -1,85 +1,51 @@
-[[main]]
-  name = "Blogi & tiedotteet"
-  url = ""
-  identifier = "blogi-pjn"  
-  weight = 10
 
 [[main]]
-  name = "Puheenjohtajan blogi"
-  url = "/categories/puheenjohtajan-blogi/"
-  parent = "blogi-pjn"
-  weight = 20
+  name = "Blogi"
+  url = "/blogi/"
+  weight = 10
 
 [[main]]
   name = "Tiedotteet"
-  url = "/categories/tiedotteet/"
-  parent = "blogi-pjn"
-  weight = 30
-  
-[[main]]
-  name = "Lakiasiat"
-  url = "/lakiasiat/"
-  weight = 20
-
-[[main]]
-  name = "Liiton säännöt"
-  url = "/saannot/"
-  parent = "Lakiasiat"
-  weight = 10
-
-[[main]]
-  name = "Tietosuoja"
-  url = "/tietosuoja/"
-  parent = "Lakiasiat"
-  weight = 20
-
-[[main]]
-  name = "Evästeet"
-  url = "/evasteet/"
-  parent = "Lakiasiat"
-  weight = 30
+  url = "/tiedotteet/"
+  weight = 15
 
 
 [[main]]
   name = "Meistä"
   url = "/meista/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Hallinto"
   url = "/hallinto/"
-  weight = 40
+  weight = 25
 
 [[main]]
-  name = "Lisätietoa"
-  url = "/tietoa/"
-  identifier = "tietoa"
-  weight = 45
-
-[[main]]
-  name = "Jäseneksi liittyminen"
+  name = "Jäseneksi!"
   url = "/jaseneksi-lomake/"
-  parent = "tietoa"
-  weight = 10
-
-[[main]]
-  name = "Jäsenten usein kysytyt kysymykset"
-  url = "/ukk/"
-  parent = "tietoa"
-  weight = 20
-
-[[main]]
-  name = "Yhteydenotto"
-  url = "/yhteydenotto/"
-  parent = "tietoa"
   weight = 30
 
 [[main]]
-  name = "Liiton tilitiedot"
-  url = "/meista/#tilitiedot"
-  parent = "tietoa"
+  name = "UKK"
+  url = "/ukk/"
+  weight = 35
+
+
+[[main]]
+  name = "Liiton säännöt"
+  url = "/saannot/"
   weight = 40
 
+[[main]]
+  name = "Tietosuoja"
+  url = "/tietosuoja/"
+  weight = 45
+
+[[main]]
+  name = "Evästeet"
+  url = "/evasteet/"
+  weight = 50
+  
 [[main]]
   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
   url = "/contact/"

@@ -44,7 +44,7 @@ Jokaisen liiton uuden jäsenen tulee pysyä tämänhetkisessä työttömyyskassa
 liiton yhteyteen saadaan perustettua oma työttömyyskassa. Tämä edellyttää riittävän suurta 
 jäsenpohjaa uudelle työttömyyskassalle. 
  
-Liiton säännöt ja hallituksen kokoonpanon löydät osoitteesta www.valoliitto.fi, kunhan sivut 
+Liiton säännöt ja hallituksen kokoonpanon löydät osoitteesta www.valo-liitto.fi, kunhan sivut 
 saadaan lähipäivinä avattua. 
  
  

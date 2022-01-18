@@ -10,7 +10,7 @@ thumbnail: "/saannot/pilli.png"
 slug: "/saannot/"
 discussionId: "/saannot/"
 toc: false
-author: valoliitto.fi
+author: valo-liitto.fi
 ---
 <img id="my-photo" alt=" Yhteydenotto - Vapaa ammattiliitto - VALO ry" src="/saannot/pilli.png">
 <style>

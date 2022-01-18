@@ -10,10 +10,10 @@ description: "Sivustomme on luotu staattisella sivustogeneraattorilla. Myös sta
 thumbnail: "/evasteet/evasteet.jpg"
 slug: "/evasteet/"
 toc: false
-author: valoliitto.fi
+author: valo-liitto.fi
 ---
 
-## Valoliitto.fi ja yleinen tietosuoja-asetus (GDPR) sekä evästeet sivuillamme
+## valo-liitto.fi ja yleinen tietosuoja-asetus (GDPR) sekä evästeet sivuillamme
 
 Yleinen tietosuoja-asetus (General Data Protection Regulation, GDPR) on EU:n lainsäädäntöön sisältyvä asetus, joka koskee tietosuojaa ja yksityisyyden suojaa kaikkien yksilöiden osalta Euroopan unionissa ja Euroopan talousalueella. Se tuli voimaan 25. toukokuuta 2018.
 

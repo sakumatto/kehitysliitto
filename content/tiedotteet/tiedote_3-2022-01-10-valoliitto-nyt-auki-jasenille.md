@@ -21,7 +21,7 @@ toc: false
 
 
 Olemme aukaisseet viralliset liiton nettisivut. Nyt voit lopultakin liittyä Vapaa ammattiliitto - VALO ry:n jäseneksi. 
-LINKKI NETTISIVUILLE: https://valoliitto.fi/jaseneksi-lomake/
+LINKKI NETTISIVUILLE: https://valo-liitto.fi/jaseneksi-lomake/
 Olemme testanneet liiton jäsenrekisteriä kanssa ja todenneet sen toimivaksi. Jäsenrekisterin luomisessa on ollut haasteita, mutta nyt jäsenrekisteri on onnistuneesti avattu.
 
 Liittymismaksu on 20 euroa. Liittymismaksun voit vähentää ensimmäisestä virallisesta jäsenmaksusta. Palkansaajille VALO ry:n jäsenmaksu on 1 prosentti kuukausittaisesta bruttopalkasta ja mikroyrittäjille jäsenmaksu on 1 prosentti YEL:iin tai MYEL:iin alaiseen tuloon sidottuna. Maksukatto molemmissa jäsenyyksissä on 500 euroa vuodessa. 
