@@ -49,16 +49,16 @@
 [[main]]
   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
   url = "/contact/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
   url = "/search/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "<img src=\"/icons/facebook.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
   url = "https://www.facebook.com/Vapaa-ammattiliitto-VALO-ry-109809381573128/"
-  weight = 70
+  weight = 80
   
   

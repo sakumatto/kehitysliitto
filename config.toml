@@ -2,7 +2,7 @@
 # if you set it to "/" share icons won't work properly on production
 
 baseurl = "https://valo-liitto.fi/"  # Include trailing slash
-disableHugoGeneratorInject = false # show Hugo version in meta
+disableHugoGeneratorInject = true # show Hugo version in meta ?
 
 title = "valo-liitto.fi"
 author = "valo-liitto.fi"
@@ -17,6 +17,8 @@ theme = "hugo-curious"
 DefaultContentLanguage = "fi"
 # [languages]
 # config/_default/languages.toml
+
+pluralizelisttitles = false
 
 # [menus]
 # config/_default/menus/menu.xx.toml
@@ -58,7 +60,7 @@ twitter = "@valoliitto"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."
 description = "Liiton tehtävä on työntekijöiden oikeuksien valvonta niillä aloilla, joilla se edustaa jäsenistöään. Tehtävämme on myös perustuslain suojaaminen ja kansainvälisten ihmisoikeussopimusten valvominen jäsentemme etujen turvaamiseksi."
-searchTypes = ["posts", "legal"]
+searchTypes = ["posts", "tiedotteet"]
 
 liitonYhteystiedot ="Viimatie 14, 28190 PORI, 0400432428"
 codeLineNumbers = true
@@ -113,7 +115,8 @@ numberOfFeaturedPosts = 8
 
 # Contact form
 contactFormSubmitUrl = "https://formspree.io/f/xbjwlwrr"
-jaseneksiFormSubmitUrl = "https://formspree.io/f/xbjwlwrr"
+jaseneksiFormSubmitUrl = "https://valo-liitto.fi/cgi-bin/henkrek.cgi"
+#jaseneksiFormSubmitUrl = "https://ip088-123.seclan.com/cgi-bin/henkrek.cgi"
 
 # Buy me a coffee
 # Comment below line to disable

@@ -50,10 +50,9 @@ Tämän momentin loppuosaa arvioin tuossa ylempänä, joten en siihen palaa.
 Sen sijaan totean, että lähtökohtaisesti työnantajan velvollisuus tarjota muuta työtä on vahva velvoite ja työnantajan pitää osoittaa, että se on tosiasiallisesti yrittänyt kaikin keinoin täyttää tämän velvoitteen.
 
 
-### Akuutteja kysymyksiä ja vastauksia niihin:
+## Akuutteja kysymyksiä ja vastauksia niihin:
 
 ### 1. Jos palkanmaksu keskeytyy puutteellisen COVID-19 suojan puutteen takia, niin millä aikataululla työntekijä on velvoitettu palaamaan työsopimuksen mukaiseen työhön (jos työpaikalla siis työntekijäpula ja työnantaja päättää käyttää puutteellisen suojan omaavia työntekijöitä)?
-
 Palkanmaksun keskeyttäminen tartuntatautilain perusteella on ylipäänsä erittäin kyseenalainen toimi ja on hankalaa sanoa, pätisikö palkanmaksun keskeyttäminen, jos asian veisi oikeuteen tutkittavaksi.
 Mutta jos muusta lainsäädännöstä (työsopimuslaki) on löydettävissä jotain vastausta esitettyyn kysymykseen, niin lähinnä kannattaa katsoa työsopimuslain lomautuslukua. Siinä sanotaan lomautukselta töihin paluusta seuraavaa:
 6 §
@@ -63,27 +62,21 @@ Työntekijällä on oikeus irtisanoa lomautuksen ajaksi toisen työnantajan kans
 
 
 ### 2. Onko työntekijä velvoitettu vastaamaan esim. esihenkilön yhteydenottoihin, kun on palkattomalla?
-
 Nähdäkseni kyllä, jos työsuhde on edelleen voimassa. Onhan mahdollista, että kutsutaan takaisin töihin.
 
 ### 3. Jos COVID-19 suojan on määritelty olevan 2 rokotetta, niin voiko työnantaja muuttaa määritystä myöhemmin ja vaatia enemmän boostereita?
-
 Työnantaja ei voi muuttaa määritystä, vaan määritelmän tulee tulla laista.
 
 ### 4. Jos työnantajan palkanmaksuvelvoite keskeytyy ja työntekijä sairastaa COVID-19, niin onko työntekijällä heti oikeus palata työhönsä, kun täyttää ”kelpoisuusvaatimukset”?
-
 Nähdäkseni kyllä.
 
 ### 5. Kuinka vahva velvoite työnantajalla on tarjota/selvitellä muuta työtä ja pitääkö se todentaa jotenkin? Meille on myyty koko ajan ”ei oota”.
-
 Työnantajan pitää osoittaa, että hän on selkeästi yrittänyt järjestää muuta työtä ”rokottamattomalle” työntekijälle. Asiasta pitää olla myös kirjallinen selvitys.
 
 ### 6. Pitääkö työnantajan antaa kirjallinen ilmoitus palkanmaksun keskeytymisestä ja sen kestosta?
-
-Ehdottomasti.
+Ehdottomasti pitää.
 
 ### 7. Hätätapauksessa työnantaja voi käyttää puutteellisen suojan omaavaa henkilöä. Mitä tämä tarkoittaa? Pitääkö palkattomalla olevan työntekijän olla jatkuvassa hätävalmiudessa hätätapauksien varalta? Minkälaisella aikataululla? Voiko työnantaja esim. laittaa minulle työvuorolistaan yhtäkkiä viikon töitä ja potkaista taas pihalle?
-
 Hallituksen esittämä ja eduskunnan hyväksymä lainsäädäntö on hyvin mielivaltainen ja epäselvä. Lähinnä kannattaa katsoa työsopimuslain lomautuslukua. Siinä sanotaan lomautukselta töihin paluusta seuraavaa:
 6 §
 Työhön paluu lomautuksen jälkeen
@@ -103,17 +96,14 @@ Työnantajalla on uuden tartuntatautilain pykälän 48a mukaan oikeus tarkastell
 Nähdäkseni asiassa ei työntekijän tarvitse tehdä mitään.
 
 ### 9. Jos puutteellisen suojan omaavan henkilön palkanmaksu keskeytyy ja tämän tilalle joudutaan palkkaamaan työntekijä, niin onko sijaisena käytetyllä työntekijällä oltava täydellinen suoja? 
-
 Nähdäkseni on oltava.
 
 ### 10. Mistä päivästä palkanmaksun voi keskeyttää?
-
 Tämä kuuluu asioihin, joihin lainsäädäntö ei vastaa käytännössä mitään.
 Todennäköisesti heti siinä vaiheessa, kun työntekijän ”kelvottomuus” todetaan.
 
 ### 11. Mediassa on puhuttu valmiuslain mahdollisesta käyttöönotosta ja sotealan pakkotyöstä. Kuinka pakkotyötä voidaan teettää ja millä perustein?
-
-Tällä hetkellä ei voi pakkotyöhön määrätä, hätätyötä voidaan määrätä tekemään korkeintaan. Hätätyötä ei voida teettää loputtomasti. Hätätyö ei saa kestää pitkään, vaan hallituksen pitää järjestää asia muulla tavalla. Muuten pakkotyöstä tulee orjatyötä, joka on kv-sopimuksilla kielletty. Alla hätätyötä koskevat lakipykälät.
+Tällä hetkellä ei voi pakkotyöhön määrätä, hätätyötä voidaan määrätä tekemään korkeintaan rajatun ajan. Hätätyötä ei voida teettää loputtomasti. Hätätyö ei saa kestää pitkään, vaan hallituksen pitää järjestää asia muulla tavalla. Muuten pakkotyöstä tulee orjatyötä, joka on kv-sopimuksilla kielletty. Alla hätätyötä koskevat lakipykälät.
 
 
 - Työaikalaki 872/2019

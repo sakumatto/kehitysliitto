@@ -4,7 +4,7 @@ slug: "/hallinto/"
 
 discussionId: "/hallinto/"
 date: 2022-01-01
-toc: false
+toc: true
 ---
 
 <img id="my-photo" alt="Vapaa ammattiliitto - VALO ry" src="/hallinto/pilli.png">
@@ -70,10 +70,10 @@ Hallituksen tehtävänä on muun muassa:
 | Jarkko Ylimäki                  | Olen koulutukseltani lääketieteen lisensiaatti ja radiologian erikoislääkäri. Erikoislääkärin tutkinnon olen suorittanut vuonna 2011 ja vuodesta 2013 eteenpäin olen työskennellyt useissa eri toimipisteissä terveydenhuollon palveluntuottajan tai alihankkijan roolissa. Työkokemusta on kertynyt yliopistosairaalassa erikoistumisen jälkeen useista eri keskussairaaloista ja yksityisistä toimipisteistä ja myös säteilyturvallisuusvastaavan toimesta.  | jarkko(piste)ylimaki(ät-merkki)valo-liitto.fi   |
 | Johanna Ruusunen, rahastonhoitaja | Olen valmistunut 2017 lähihoitajaksi ja työskentelen lastensuojelussa ohjaajana. Aiemmin olen työskennellyt kaupan alalla, pankissa ja varhaiskasvatuksessa. | johanna(piste)ruusunen(ät-merkki)valo-liitto.fi   |
 | Merja Lindström                  | Olen toiminut terveysalan mikroyrittäjänä 35 vuotta. Useita alaan liittyviä koulutuksia mm. terveystuotteista, yrtti- ja kasvilääkinnästä. Olen suorittanut myös peruslääketieteen opinnot. Tietokirjailijana olen kirjoittanut alaan liittyviä kirjoja.  Toimin alan kouluttajana ja luennoitsijana sekä geenitestien tulkitsijana. Ollut Suomen Terveysjärjestön STJ ry puheenjohtajana 2004 alkaen. | merja(piste)lindstrom(ät-merkki)valo-liitto.fi   |
-| Anu Tolppi                  |  Koulutukseltani ole lähihoitaja, sairaanhoitaja AMK ja hoitotason ensihoitaja 30op. Alan työkokemusta on kertynyt 12 vuotta. Olen työskennellyt vanhustyössä, vuodeosastolla, päivystyspoliklinikalla sekä ensihoidossa.  | anu(piste)tolppi(ät-merkki)valo-liitto.fi   |
+| Anu Tolppi                  |  Koulutukseltani olen lähihoitaja, sairaanhoitaja AMK ja hoitotason ensihoitaja. Alan työkokemusta on kertynyt 12 vuotta. Olen työskennellyt vanhustyössä, vuodeosastolla, päivystyspoliklinikalla sekä ensihoidossa.  | anu(piste)tolppi(ät-merkki)valo-liitto.fi   |
 | Johanna Yli-Kaatiala (4.1.2022 alkaen, varajäsen 3.1.22 asti), jäsenrekisterin ylläpitäjä. |  Koulutukseltani perushoitaja ja sihteeri. Pitkä työkokemus hoitoalalta, erityisesti vanhuspuolelta. Tunnen työpaikkojen epäkohdat. Yhteiskunnallisesti aktiivinen politiikan vaikuttaja. Harrastuksena käsityöt ja ulkoilu, kirjoittaminen ja bloggailu. | johanna(piste)yli-kaatiala(ät-merkki)valo-liitto.fi   |
 | Niina Kopola (vara)                  | Monen mutkan kautta palokuntaharrastuksen myötä hakeuduin hoitoalalle. Lähihoitaja 2013, sairaanhoitaja 2018. Ensihoidossa kahdeksan vuotta, lisäksi kokemusta vanhuspuolelta ja tk päivystyksestä. Koen että maassamme vallitsee epäselvä tilanne joka on käymässä sietämättömäksi ja haluan puolestani osallistua toimintaan, joka pyrkii korjaamaan asioita konkreettisesti yksilötasolla. Uuden ammattiliiton myötä, haluan olla tuomassa valoa ja toivoa tähän hankalaan tilanteeseen. – Työnnän kantapääni isänmaahan ja päätän säteillä valoa. – | niina(piste)kopola(ät-merkki)valo-liitto.fi   |
-| Hannele Säteentie (vara)                  | Hyvinvointialan yrittäjä vuodesta 2001. Olen mukana, koska koen tärkeäksi uudenlaisen toiminnan ja yhteistyön rakentamisen ja ihmisten huomioonottamisen työelämässä. Yritykset tarvitsevat työntekijöitä pitääkseen toiminnan ja tuotannon käynnissä ja työntekijät tarvitsevat yrityksiä työnantajina. Vapaa Ammattiliitto VALO on myös pienyrittäjien tukena. | hannele(piste)sateentie(ät-merkki)valo-liitto.fi   |
+| Hannele Säteentie (vara)                  | Hyvinvointialan mikroyrittäjä vuodesta 2001. Olen mukana, koska koen tärkeäksi uudenlaisen toiminnan ja yhteistyön rakentamisen ja ihmisten huomioonottamisen työelämässä. Yritykset tarvitsevat työntekijöitä pitääkseen toiminnan ja tuotannon käynnissä ja työntekijät tarvitsevat yrityksiä työnantajina. Vapaa Ammattiliitto VALO on myös pienyrittäjien tukena. | hannele(piste)sateentie(ät-merkki)valo-liitto.fi   |
 
 
 * Tiedotusvastaava, Senni Nieminen, senni(piste)nieminen(ät-merkki)valo-liitto.fi

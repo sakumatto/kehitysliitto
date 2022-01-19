@@ -17,3 +17,14 @@
 .jaseneksi {
 	background-color: rgb(255, 115, 0);
 	}
+@media print {
+         main {font-family:georgia, times, serif;}
+         #top-navbar {display:none;}
+         .jaseneksi {display:none;}
+         .post_share {display:none;}
+         .post_tag {display:none;}
+         article .post_title {font-family:georgia, times, serif; font-size: 23px;}
+         article h2 {font-family:georgia, times, serif; font-size: 18px;}
+         article p {font-family:georgia, times, serif; font-size: 14px;}
+         
+}

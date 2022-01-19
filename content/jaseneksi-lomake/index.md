@@ -2,7 +2,7 @@
 title: "Jäseneksiliittymislomake"
 slug: "/jaseneksi-lomake/"
 discussionId: "/jaseneksi-lomake/"
-date: 2022-01-01
+date: 2022-01-19
 ---
 
 <img id="my-photo" alt=" Yhteydenotto - Vapaa ammattiliitto - VALO ry" src="/jaseneksi-lomake/liity-narut.jpg">

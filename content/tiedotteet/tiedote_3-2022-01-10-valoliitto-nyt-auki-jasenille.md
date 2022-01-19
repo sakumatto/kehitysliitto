@@ -1,6 +1,6 @@
 ---
 title: "Tiedote 3: Vapaa ammattiliitto - VALO ry ottaa nyt jäseniä"
-date: 2022-01-09
+date: 2022-01-18
 categories: ["Tiedotteet"]
 tags:
 - Tiedote

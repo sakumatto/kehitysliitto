@@ -9,7 +9,7 @@ description: "Tältä sivulta voit lukea liiton säännöt."
 thumbnail: "/saannot/pilli.png"
 slug: "/saannot/"
 discussionId: "/saannot/"
-toc: false
+toc: true
 author: valo-liitto.fi
 ---
 <img id="my-photo" alt=" Yhteydenotto - Vapaa ammattiliitto - VALO ry" src="/saannot/pilli.png">
